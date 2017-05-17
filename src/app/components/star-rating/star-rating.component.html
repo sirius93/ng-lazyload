@@ -1,0 +1,5 @@
+<template ngFor let-item [ngForOf]="[0,1,2,3,4]" let-i="index+1">
+    <svg class="rating-answer" viewBox="-20 -10 50 50" height="40" width="40" (click)="clickfun(i,$event)" (mouseover)="clickfun(i,$event)" (mouseout)=clickfun(i,$event)>
+        <polygon [attr.id]=i points="15,0 11,11 0,11 10,20 5,30 15,23 25,30 20,20 30,11 19,11" [attr.class]="changeClass(i)"/>
+    </svg>
+</template>

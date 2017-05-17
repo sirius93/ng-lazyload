@@ -1,0 +1,73 @@
+<div class="container-fluid">
+  <div  class="row">
+    <div class="col-xs-12 toolbar">
+      <md-toolbar color="primary">
+        <div class="logo">
+          < <amp-dash [typeText]="'DEV SPACE'" [typeLoop]="true"></amp-dash>>
+        </div>
+        <md-input-container class="search-container">
+          <input mdInput placeholder="Search APIs by category" [formControl]="stateCtrl" [mdAutocomplete]="auto" class="search-input">
+        </md-input-container>
+
+        <md-autocomplete #auto="mdAutocomplete">
+          <md-option *ngFor="let api of filteredApis | async" [value]="api" (click)="renderResults(api)">
+            {{ api }}
+          </md-option>
+        </md-autocomplete>
+      </md-toolbar>
+    </div>
+  </div>
+
+  <div  class="row main-content">
+    <div class="col-xs-10 col-xs-offset-1">
+      <h1> HI {{userName|uppercase}}</h1>
+      <div *ngIf="!displayFlag">
+      <h1>
+        Most popular APIs
+      </h1>
+      <table>
+        <thead>
+          <tr class="table-heading">
+            <td>Api name</td>
+            <td>Description</td>
+            <td>Rating</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="table-rows" *ngFor="let api of apis;let i =index" (click)="openDialog(api)">
+            <td>{{api.API}}</td>
+            <td> {{api.Description}}</td>
+            <td>{{api.avgrating}}</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      <div>
+      <h1>
+        All APIs
+      </h1>
+      <table class="all-api-table">
+        <!--<thead>
+          <tr class="table-heading">
+            <td>Api name</td>
+            <td>Description</td>
+            <td>Category</td>
+            <td>Submission Date</td>
+          </tr>
+        </thead>-->
+        <tbody >
+          <tr class="table-rows all-api-tr"  *ngFor="let apiindex of allapis;let i =index">
+            <td>{{apiindex.APIname}}</td>
+            <td> {{apiindex.Description}}</td>
+            <td>{{apiindex.Category}}</td>
+            <td>{{apiindex.Date}}</td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </div>
+  
+</div>
+<!--{{ userDetails }}-->
+

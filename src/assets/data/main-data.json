@@ -1,0 +1,3135 @@
+[
+  {
+    "APIname": "Google Maps",
+    "Description": "The Google Maps API allow for the embedding of Google Maps onto web pages of outside developers, using a simple JavaScript interface or a Flash interface. It is designed to work on both mobile...",
+    "Category": "Mapping",
+    "Date": "12.05.2005"
+  },
+  {
+    "APIname": "Twitter",
+    "Description": "The Twitter micro-blogging service includes two RESTful APIs. The Twitter REST API methods allow developers to access core Twitter data. This includes update timelines, status data, and user...",
+    "Category": "Social",
+    "Date": "12.08.2006"
+  },
+  {
+    "APIname": "YouTube",
+    "Description": "The Data API allows users to integrate their program with YouTube and allow it to perform many of the operations available on the website. It provides the capability to search for videos, retrieve...",
+    "Category": "Video",
+    "Date": "02.08.2006"
+  },
+  {
+    "APIname": "Flickr",
+    "Description": "The Flickr API can be used to retrieve photos from the Flickr photo sharing service using a variety of feeds - public photos and videos, favorites, friends, group pools, discussions, and more. The...",
+    "Category": "Photos",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Facebook",
+    "Description": "The Facebook API is a platform for building applications that are available to the members of the social network of Facebook. The API allows applications to use the social connections and profile...",
+    "Category": "Social",
+    "Date": "08.16.2006"
+  },
+  {
+    "APIname": "Amazon Product Advertising",
+    "Description": "What was formerly the ECS - eCommerce Service - has been renamed the Product Advertising API. Through this API developers can retrieve product information. The API exposes Amazon's product data...",
+    "Category": "eCommerce",
+    "Date": "12.02.2005"
+  },
+  {
+    "APIname": "Twilio",
+    "Description": "Twilio provides a simple hosted API and markup language for businesses to quickly build scalable, reliable and advanced voice and SMS communications applications. Twilio provides a telephony...",
+    "Category": "Telephony",
+    "Date": "01.09.2009"
+  },
+  {
+    "APIname": "Last.fm",
+    "Description": "The Last.fm API gives users the ability to build programs using Last.fm data, whether on the web, the desktop or mobile devices. The RESTful API allows for read and write access to the full slate of...",
+    "Category": "Music",
+    "Date": "10.30.2005"
+  },
+  {
+    "APIname": "eBay",
+    "Description": "eBay's primary web services are found in the three following API's:\nThe [[/api/ebay-trading Trading API]] is designed to provide robust support for transactional activities. The services...",
+    "Category": "Search",
+    "Date": "12.05.2005"
+  },
+  {
+    "APIname": "Twilio SMS",
+    "Description": "Twilio provides a simple hosted API and markup language for businesses to quickly build scalable, reliable and advanced voice and SMS communications applications. Twilio provides a telephony...",
+    "Category": "Messaging",
+    "Date": "02.19.2010"
+  },
+  {
+    "APIname": "Microsoft Bing Maps",
+    "Description": "Bing Maps API and Interactive SDK features an AJAX Map Control. Use BM to build maps which can include routes and traffic info. Gives developers the ability to code the controls, shapes, and layers...",
+    "Category": "Mapping",
+    "Date": "12.02.2005"
+  },
+  {
+    "APIname": "del.icio.us",
+    "Description": "From their site: del.icio.us is a social bookmarking website -- the primary use of del.icio.us is to store your bookmarks online, which allows you to access the same bookmarks from any computer and...",
+    "Category": "Bookmarks",
+    "Date": "10.30.2005"
+  },
+  {
+    "APIname": "Google App Engine",
+    "Description": "Use the Google App Engine platform to run web apps on Google's infrastructure, the same scalable systems that run Google applications. Use the platform to run your apps reliably, even if you...",
+    "Category": "Tools",
+    "Date": "12.05.2008"
+  },
+  {
+    "APIname": "foursquare",
+    "Description": "The foursquare APIs, currently in V2, grant access to the company's database of locations as well as information on venue check in's. The APIs are: The Core API, Real-time API, Merchant...",
+    "Category": "Social",
+    "Date": "09.10.2009"
+  },
+  {
+    "APIname": "Google Homepage",
+    "Description": "From their site: The Google Gadgets API provides a way to put third-party content onto the Google homepage. The main use of the Google Gadgets API is to create gadgets (mini-applications) that users...",
+    "Category": "Widgets",
+    "Date": "12.14.2005"
+  },
+  {
+    "APIname": "DocuSign Enterprise",
+    "Description": "DocuSign is a Cloud based legally compliant eSignature service.  DocuSign service provides an intuitive web, mobile and an API interfaces.  DocuSign API allows an application to connect DocuSign...",
+    "Category": "Enterprise",
+    "Date": "03.29.2008"
+  },
+  {
+    "APIname": "Amazon S3",
+    "Description": "Since 2006 Amazon Web Services has been offering web services commonly known as cloud computing. AWS Provides a reliable, low cost infrastructure platform that powers hundreds of thousands of...",
+    "Category": "Storage",
+    "Date": "03.14.2006"
+  },
+  {
+    "APIname": "GeoNames",
+    "Description": "Geonames is a geographical database with web services that let users extract useful information about different places, such as weather, timezone and post codes. The GeoNames geographical database...",
+    "Category": "Reference",
+    "Date": "01.12.2006"
+  },
+  {
+    "APIname": "Google AdSense",
+    "Description": "The Google AdSense API is ideal for developers whose users create their own content through blogging, web publishing, forum/wiki/community creation, or any other application where substantial web...",
+    "Category": "Advertising",
+    "Date": "06.01.2006"
+  },
+  {
+    "APIname": "Wikipedia",
+    "Description": "The unofficial Wikipedia API. Because Wikipedia is built using MediaWiki, which in turn supports an API, Wikipedia does as well. This provides developers code-level access to the entire Wikipedia...",
+    "Category": "Reference",
+    "Date": "09.05.2008"
+  },
+  {
+    "APIname": "Box",
+    "Description": "Box is a modern content management platform that transforms how organizations work and collaborate to achieve results faster.\nBox Platform provides content APIs to build secure...",
+    "Category": "Content",
+    "Date": "03.07.2006"
+  },
+  {
+    "APIname": "Amazon EC2",
+    "Description": "The Amazon Elastic Compute Cloud (Amazon EC2) API is a web service that enables you to launch and manage Linux/UNIX and Windows server instances in Amazon's data centers. Giving users the...",
+    "Category": "Cloud",
+    "Date": "08.25.2006"
+  },
+  {
+    "APIname": "Bing",
+    "Description": "Bing API Version 2.0 enables you to embed a flexible and powerful search engine as a custom search component in your sites and applications. The Microsoft Bing API offers open, flexible options for...",
+    "Category": "Search",
+    "Date": "06.04.2009"
+  },
+  {
+    "APIname": "LinkedIn",
+    "Description": "LinkedIn is the worlds largest business social networking hub. Launched in 2003, LinkedIn has millions of users and is implemented in over 200 countries. One purpose of the site is to allow...",
+    "Category": "Social",
+    "Date": "12.10.2007"
+  },
+  {
+    "APIname": "Instagram",
+    "Description": "Instagram is a photo sharing iPhone app and service. Users take photos and can share them with Instagram contacts, as well as friends on other social networks like Twitter and Facebook. The Instagram...",
+    "Category": "Photos",
+    "Date": "12.15.2010"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Yahoo BOSS",
+    "Description": "Per provider, this API will be shutting down on March 31, 2016\nBOSS (Build your Own Search Service) is Yahoo!'s open search web services platform. The goal of BOSS is...",
+    "Category": "Search",
+    "Date": "07.10.2008"
+  },
+  {
+    "APIname": "Google AJAX Libraries",
+    "Description": "The AJAX Libraries API is a content distribution network and loading architecture for the most popular open source JavaScript libraries. By using the Google AJAX API Loader's google.load()...",
+    "Category": "",
+    "Date": "05.27.2008"
+  },
+  {
+    "APIname": "Yelp Fusion",
+    "Description": "The Yelp Fusion APIs are RESTful APIs and users can retrieve business review and rating, information for a particular geographic region or location.display review information for a particular...",
+    "Category": "Recommendations",
+    "Date": "08.03.2007"
+  },
+  {
+    "APIname": "Shopping.com",
+    "Description": "With the Shopping.com API you can integrate relevant product content with the deepest product catalog available online. Add millions of unique products and merchant offers to your site. Shopping.com...",
+    "Category": "eCommerce",
+    "Date": "01.30.2006"
+  },
+  {
+    "APIname": "Google Analytics Managment",
+    "Description": "Use the Google Analytics Management API to leverage Google's extensive website analytics tools. The API uses GET requests over HTTPS and JSON for requests/returns. Some of the functions...",
+    "Category": "Analytics",
+    "Date": "04.21.2009"
+  },
+  {
+    "APIname": "Freebase",
+    "Description": "Freebase is an open database of the over 22 million real world entities like people, places, organizations and much more. It's built by the community and for the community free for anyone to...",
+    "Category": "Database",
+    "Date": "10.13.2007"
+  },
+  {
+    "APIname": "Yahoo Local Search",
+    "Description": "The Yahoo! Local Search APIs give users access to a comprehensive database of information and content in Yahoo! Local ranging from business information to user comments to ratings. Data includes...",
+    "Category": "Search",
+    "Date": "11.12.2005"
+  },
+  {
+    "APIname": "Panoramio",
+    "Description": "(Deprecated in November, 2016) Using Panoramio API users can display the photos from Panoramio on their own web site. Geolocated photos from Panoramio can enrich maps or illustrate information where...",
+    "Category": "Photos",
+    "Date": "06.12.2007"
+  },
+  {
+    "APIname": "A State of Trance",
+    "Description": "A State of Trance is a radio show, hosted by Armin van Buuren, which plays trance and progressive rock music. The A State of Trance API allows developers to access information from the radio show and...",
+    "Category": "Music",
+    "Date": "11.11.2013"
+  },
+  {
+    "APIname": "Facebook Graph",
+    "Description": "From documentation: At Facebook's core is the social graph; people and the connections they have to everything they care about. The Graph API presents a simple, consistent view of the Facebook...",
+    "Category": "Social",
+    "Date": "12.17.2010"
+  },
+  {
+    "APIname": "Salesforce.com",
+    "Description": "Salesforce.com API provides programmatic access to an organization�s information and allows developers to implement custom functionality. The worldwide leader in on-demand customer relationship...",
+    "Category": "Enterprise",
+    "Date": "11.09.2005"
+  },
+  {
+    "APIname": "Google Earth",
+    "Description": "The Google Earth Engine API allows developers to run algorithms on georeferenced imagery and vectors stored on Google's infrastructure. The Google Earth Engine API provides a library of...",
+    "Category": "Mapping",
+    "Date": "06.01.2008"
+  },
+  {
+    "APIname": "Eventful",
+    "Description": "Eventful is the world's largest collection of events, taking place in local markets throughout the world, from concerts and sports to singles events and political rallies. Eventful.com is built...",
+    "Category": "Events",
+    "Date": "10.31.2005"
+  },
+  {
+    "APIname": "indeed",
+    "Description": "Indeed is a search engine for jobs - with a radically different approach to job search. In one simple search, Indeed gives job seekers free access to millions of employment opportunities from...",
+    "Category": "Jobs",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Google Translate",
+    "Description": "From their site: The University Research Program for Google Translate provides researchers, in the field of automatic machine translation, tools to help compare and contrast with, and build on top of...",
+    "Category": "Translation",
+    "Date": "08.20.2007"
+  },
+  {
+    "APIname": "Google Calendar",
+    "Description": "The Calendar Data API lets users perform most of the operations a normal Google Calendar user can on the Google Calendar website. Google Calendar allows client applications to view and update...",
+    "Category": "Calendars",
+    "Date": "04.20.2006"
+  },
+  {
+    "APIname": "Google AdWords",
+    "Description": "The Google AdWords API is the main revenue source for Google. AdWords offers pay-per-click advertising, cost-per-thousand advertising, and site-targeted advertising for text.\nThe Google AdWords API...",
+    "Category": "Advertising",
+    "Date": "01.22.2006"
+  },
+  {
+    "APIname": "geocoder",
+    "Description": "Geocoder.us is a public service providing free geocoding of addresses and intersections in the United States. Using the service you can find the latitude & longitude of any US address and much...",
+    "Category": "Mapping",
+    "Date": "02.15.2006"
+  },
+  {
+    "APIname": "PayPal",
+    "Description": "PayPal offers online payment solutions and has more than 153 million customers worldwide. The PayPal API makes powerful functionality available to developers by exposing various features of the...",
+    "Category": "Payments",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Commission Junction",
+    "Description": "The Commission Detail Service is a REST-based API that enables advertisers and publishers to access real-time commission and item-detail data. Advertisers and publishers that wish to receive...",
+    "Category": "eCommerce",
+    "Date": "09.23.2006"
+  },
+  {
+    "APIname": "MusicBrainz",
+    "Description": "The MusicBrainz database contains a huge amount of music metadata, which is maintained by the MusicBrainz community. Find information about artists, albums, tracks and labels. Mash the data with your...",
+    "Category": "Music",
+    "Date": "07.16.2006"
+  },
+  {
+    "APIname": "Concur",
+    "Description": "The service provides online tools for business organizations to manage travel and expense reporting and reimbursement. Integrated travel booking functions combine with expense reporting within a...",
+    "Category": "Enterprise",
+    "Date": "03.02.2012"
+  },
+  {
+    "APIname": "Google Custom Search",
+    "Description": "The Google Custom Search Engine API is a RESTful API that allows developer to get web or image search results data in JSON or Atom format. With the API, developers can add web search and/or site...",
+    "Category": "Search",
+    "Date": "07.08.2007"
+  },
+  {
+    "APIname": "Google Picasa",
+    "Description": "From their site: The Picasa Web Albums data API allows client applications to view and update Picasa Web Albums content in the form of Google data API GData feeds. Your client application can request...",
+    "Category": "Photos",
+    "Date": "03.23.2007"
+  },
+  {
+    "APIname": "Bit.ly",
+    "Description": "bit.ly allows users to shorten, share, and track links (URLs). Reducing the URL length makes sharing easier. bit.ly  can be accessed through their website, bookmarklets and this open API. bit.ly is...",
+    "Category": "URL Shortener",
+    "Date": "07.13.2008"
+  },
+
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Blogger",
+    "Description": "The Blogger Data API allows client applications to view and update Blogger content in the form of Google Data API feeds. Your client application can use the Data API to create new blog posts, edit or...",
+    "Category": "Blogging",
+    "Date": "02.08.2006"
+  },
+  {
+    "APIname": "Google Geocoding",
+    "Description": "The Google Geocoding API is a webservice for the Google Maps API. The Geocoding API provides a direct way to access a geocoder via an HTTP request, though it must be used in conjunction with Google...",
+    "Category": "Mapping",
+    "Date": "12.08.2010"
+  },
+  {
+    "APIname": "Microsoft Bing",
+    "Description": "Bing API Version 2.0 enables developers to embed a flexible and powerful search engine as a custom search component in thier sites and applications. Bing API offers open, flexible options for...",
+    "Category": "Search",
+    "Date": "01.23.2006"
+  },
+  {
+    "APIname": "Yahoo Term Extraction",
+    "Description": "The Term Extraction API allows users to perform content analysis by providing a list of significant words or phrases extracted from a larger content. It is one of the technologies used in Yahoo!...",
+    "Category": "Search",
+    "Date": "11.12.2005"
+  },
+  {
+    "APIname": "SoundCloud",
+    "Description": "SoundCloud is the leading audio platform that enables anyone to upload, record, promote and share their sounds across the web. The SoundCloud API makes most of the SoundCloud features from [[...",
+    "Category": "Music",
+    "Date": "07.10.2008"
+  },
+  {
+    "APIname": "Oodle",
+    "Description": "From their site: Oodle makes it easy to use online classifieds. We bring together loads of listings from hundreds of local and national sources and help you find exactly what you\\'re looking for",
+    "Category": "eCommerce",
+    "Date": "09.01.2007"
+  },
+  {
+    "APIname": "NationBuilder",
+    "Description": "NationBuilder is an open platform for users to create online communities centered around issues relevant to them. Users can create community organization websites, access a people database, and use...",
+    "Category": "Social",
+    "Date": "10.15.2013"
+  },
+  {
+    "APIname": "Bing Maps",
+    "Description": "The Microsoft Bing Maps API is the re-branded name for the Microsoft Virtual Earth API and Virtual Earth SDK. It features an AJAX map control. Use Bing Maps to build maps which can include routes and...",
+    "Category": "Mapping",
+    "Date": "06.09.2009"
+  },
+  {
+    "APIname": "FriendFeed",
+    "Description": "The FriendFeed API enables developers to interact with the FriendFeed web site programmatically via simple HTTP requests. FriendFeed is a service that makes it easy to share with friends online. It...",
+    "Category": "Other",
+    "Date": "03.25.2008"
+  },
+  {
+    "APIname": "Fitbit",
+    "Description": "Fitbit helps people lead healthier, more active lives by empowering them with data, inspiration and guidance to reach their goals. As the leader in the connected health and fitness category, Fitbit...",
+    "Category": "Fitness",
+    "Date": "03.22.2011"
+  },
+  {
+    "APIname": "Netflix",
+    "Description": "The Netflix API lets you access data for 100,000 movie and TV episode titles on DVD as well as Netflix account access on a user�s behalf. Netflix has over 2 billion movie ratings in its database and...",
+    "Category": "Video",
+    "Date": "09.30.2008"
+  },
+  {
+    "APIname": "Zillow",
+    "Description": "The Zillow API Network turns member sites into mini real estate portals by offering fresh and provocative real estate and mortgage content to keep people coming back. There are four categories of...",
+    "Category": "Real Estate",
+    "Date": "10.26.2006"
+  },
+  {
+    "APIname": "TwitPic",
+    "Description": "The TwitPic API lets you upload and post images to your Twitter account. You can upload an image for later posting or upload an image to TwitPic and automatically send it as a status update to...",
+    "Category": "Photos",
+    "Date": "01.08.2009"
+  },
+  {
+    "APIname": "BBC",
+    "Description": "The updated service is intended to provide a persistent web presence for all BBC programs, both radio and television, in compliance with principles of linked data. A complete ontology defines...",
+    "Category": "Media",
+    "Date": "10.29.2005"
+  },
+  {
+    "APIname": "Skype",
+    "Description": "The Skype API provides a mechanism for 3rd party scripts and applications to control Skype UI functions and implement additional or improved features to complement the Skype. Skype is the world'...",
+    "Category": "Telephony",
+    "Date": "09.11.2005"
+  },
+  {
+    "APIname": "Google Visualization",
+    "Description": "The Google Visualization JavaScript API lets you access structured data and visualize that data using JavaScript in your web pages. The Google Visualization API also enables creation of gadgets.",
+    "Category": "Other",
+    "Date": "03.24.2008"
+  },
+  {
+    "APIname": "Yahoo Answers",
+    "Description": "From their site: Tap into the collective knowledge of millions of Yahoo! users with the Yahoo! Answers Web Services APIs. Search for expert advice on any topic, from within your very own site. Watch...",
+    "Category": "Q&A",
+    "Date": "08.16.2006"
+  },
+  {
+    "APIname": "Etsy",
+    "Description": "Etsy is an online marketplace for buying and selling handmade things. The Etsy API lets you develop applications built on this fast growing e-commerce platform.",
+    "Category": "eCommerce",
+    "Date": "03.23.2009"
+  },
+  {
+    "APIname": "LyricWiki",
+    "Description": "Wikia is a collaborative publishing platform that enables people around the world to discover, create, and share content on any topic. Wikia also provides the LyricWiki API, a service which provides...",
+    "Category": "Music",
+    "Date": "03.16.2008"
+  },
+  {
+    "APIname": "Tumblr",
+    "Description": "From their site: Use the Tumblr API to read Tumblr data or to write a Tumblr post. Unlike blogs, tumblelogs aren't designed like a newspaper column. If blogs are journals, tumblelogs are...",
+    "Category": "Social",
+    "Date": "02.10.2008"
+  },
+  {
+    "APIname": "Shopzilla",
+    "Description": "The Shopzilla, Inc. Catalog API provides access to the Shopzilla, Inc. inventory of catalogued products, merchant offers, and merchant ratings & reviews content through a query-based RESTful web...",
+    "Category": "eCommerce",
+    "Date": "01.04.2008"
+  },
+  {
+    "APIname": "Lyricsfly",
+    "Description": "From their site: This API is available to anyone who wishes to use our database for their own music project, website or program. If you currently use the web to search out lyrics or use code tricks...",
+    "Category": "Music",
+    "Date": "01.02.2008"
+  },
+  {
+    "APIname": "Vimeo",
+    "Description": "Let Vimeo take care of all your video needs. Their API handles uploading, transcoding, hosting and playback of any video type. Embed the videos in your own website, or share them with the large...",
+    "Category": "Video",
+    "Date": "09.16.2007"
+  },
+  {
+    "APIname": "Facebook Social Plugins",
+    "Description": "Facebook Social Plugins make a user's friend's social activity available via API. You can see what your friends have liked, commented on or shared on sites across the web. Social Plugins...",
+    "Category": "Social",
+    "Date": "01.13.2011"
+  },
+  {
+    "APIname": "Google AJAX Language",
+    "Description": "With the AJAX Language API, you can translate and detect the language of blocks of text within a webpage using only Javascript.  The language API is designed to be simple and easy to use to translate...",
+    "Category": "Language",
+    "Date": "03.20.2008"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "MySpace",
+    "Description": "The MySpace Developer Platform (MDP) allows developers to create applications that interact with MySpace members and their social data. With MDP you will be able to create compelling new products...",
+    "Category": "Social",
+    "Date": "12.31.2007"
+  },
+  {
+    "APIname": "Google Plus",
+    "Description": "Google Plus is a service to share links, photos and other content. The Google Plus API allows developers to access publicly-available Google Plus content, including user information and publicly...",
+    "Category": "Social",
+    "Date": "09.15.2011"
+  },
+  {
+    "APIname": "Spotify Echo Nest",
+    "Description": "The Spotify Echo Nest API allows developers to analyze tracks and to add rich artist and song metadata to their applications. The Echo Nest is a website that provides tools and services for building...",
+    "Category": "Music",
+    "Date": "09.20.2008"
+  },
+  {
+    "APIname": "Google Static Maps",
+    "Description": "From their site: The Google Static Maps API lets you embed a Google Maps image on your webpage without requiring JavaScript or any dynamic page loading. The Google Static Map service creates your map...",
+    "Category": "Mapping",
+    "Date": "02.24.2008"
+  },
+  {
+    "APIname": "OpenStreetMap",
+    "Description": "OpenStreetMap is the free wiki world map, an open volunteer-driven initiative to collaboratively create a map of the world, and release the map data under a free and open license.\nThere are...",
+    "Category": "Mapping",
+    "Date": "12.28.2005"
+  },
+  {
+    "APIname": "Dropbox",
+    "Description": "Dropbox is a storage service that syncs files online and across your computers via installed software. The API allows read/write access to the same files, piggybacking on Dropbox's file...",
+    "Category": "Storage",
+    "Date": "08.04.2010"
+  },
+  {
+    "APIname": "Google Places",
+    "Description": "The Google Places Web Service is a service that returns information about a \"place\": an establishment, a geographic location, or prominent point of interest using an HTTP request. Place...",
+    "Category": "Mapping",
+    "Date": "05.20.2010"
+  },
+  {
+    "APIname": "iTunes and iTunes Connect",
+    "Description": "A simple REST web service to access the iTunes App Store and iTunes Connect data. Get information about apps, reviews, ratings, ranking, iTunes Connect sales data and more.",
+    "Category": "Other",
+    "Date": "03.20.2010"
+  },
+  {
+    "APIname": "Zazzle",
+    "Description": "From their site: Zazzle provides a simple URL linkover-based API that allows any third party to automatically generate a customized product with dynamic images and text. The Zazzle Create-a-Product...",
+    "Category": "eCommerce",
+    "Date": "08.31.2006"
+  },
+  {
+    "APIname": "WeatherBug",
+    "Description": "WeatherBug is a full source weather provider featuring exclusive data from its own network of over 8,000 weather observation stations in the USA. The API gives you access to live weather conditions,...",
+    "Category": "Weather",
+    "Date": "01.13.2006"
+  },
+  {
+    "APIname": "Weather Channel",
+    "Description": "From their site: Since 1982, The Weather Channel has brought timely weather information to the world. Now you can include weather from The Weather Channel in your own application by signing up for...",
+    "Category": "Weather",
+    "Date": "08.05.2007"
+  },
+  {
+    "APIname": "FedEx",
+    "Description": "FedEx web services allow businesses to integrate FedEx shipping functionality into their existing warehouse management systems without hosting on-site.\nDevelopers can access...",
+    "Category": "Shipping",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Google Fusion Tables",
+    "Description": "Google Fusion Tables is a free service for sharing and visualizing data online. It lets you upload data, share and mark up your data with collaborators, merge data from multiple tables, and create...",
+    "Category": "Database",
+    "Date": "12.15.2009"
+  },
+  {
+    "APIname": "Tropo Scripting",
+    "Description": "Tropo makes it simple to build phone, SMS and Instant messaging applications. You use the web technologies you already know and Tropo's powerful cloud API to bring real-time communications to...",
+    "Category": "Telephony",
+    "Date": "08.29.2009"
+  },
+  {
+    "APIname": "HotelsCombined",
+    "Description": "No public API documentation is available for this API, but access to documentation is availabnle when you register to the affiliate program (free). Contact affiliate@hotelscombined.com to apply for...",
+    "Category": "Travel",
+    "Date": "06.13.2008"
+  },
+  {
+    "APIname": "Sunlight Labs Congress",
+    "Description": "From their site: We set out to create an up-to-date database for the 110th Congress that provides basic clerical information about members of congress (phone, email, district etc.) via API. Moreover...",
+    "Category": "Government",
+    "Date": "02.27.2007"
+  },
+  {
+    "APIname": "Yahoo Traffic",
+    "Description": "From their site: Traffic Web Services from Yahoo! enable you to get traffic alert information from a given location. Use the Traffic REST API to customize your request with many parameters including...",
+    "Category": "Transportation",
+    "Date": "11.12.2005"
+  },
+  {
+    "APIname": "Rotten Tomatoes",
+    "Description": "Rotten Tomatoes is a website containing information about movies: information, news, reviews and ratings, pictures, etx. The Rotten Tomatoes API is RESTful web service that was designed to be easy to...",
+    "Category": "Recommendations",
+    "Date": "04.22.2011"
+  },
+  {
+    "APIname": "Heroku",
+    "Description": "Heroku API is used for manually manipulating Heroku apps. Heroku is a cloud application platform for Ruby giving developers a new way of building and deploying web apps. The service lets app...",
+    "Category": "Cloud",
+    "Date": "03.27.2010"
+  },
+  {
+    "APIname": "Yahoo Query Language",
+    "Description": "The Yahoo Query Language, YQL, provides a single endpoint service that enables developers to query, filter and combine data across Yahoo and beyond. YQL exposes a SQL-like SELECT syntax that that is...",
+    "Category": "Database",
+    "Date": "12.05.2008"
+  },
+  {
+    "APIname": "DBpedia",
+    "Description": "From their site: DBpedia.org is a community effort to extract structured information from Wikipedia and to make this information available on the Web. DBpedia allows you to ask\nsophisticated queries...",
+    "Category": "Wiki",
+    "Date": "08.08.2007"
+  },
+  {
+    "APIname": "Google Spreadsheets",
+    "Description": "From their site: The Google Spreadsheets data API allows client applications to view and update Spreadsheets content in the form of a Google data API (\"GData\") feeds. Your client...",
+    "Category": "Office",
+    "Date": "12.02.2006"
+  },
+  {
+    "APIname": "Google Talk",
+    "Description": "From the site: As long as you adhere to the requirements of the XMPP specs, you should be able to connect to the Google Talk service. Other clients that can connect include [[http://gaim.sourceforge....",
+    "Category": "Chat",
+    "Date": "12.03.2005"
+  },
+  {
+    "APIname": "Thomson Reuters Open Calais",
+    "Description": "The Thomson Reuters Open Calais API (Intelligent Tagging API) provides developers a way to take unstructured text (e.g. News document, Research reports, etc) and extract the aboutness into a machine-...",
+    "Category": "Tagging",
+    "Date": "01.31.2008"
+  },
+  {
+    "APIname": "hostip.info",
+    "Description": "Hostip.info is a community-based project to geolocate IP addresses, making the database freely available but it needs you to put in your city to make it work. Available as a Firefox plug-in, or...",
+    "Category": "",
+    "Date": "09.04.2005"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Amazon Marketplace Web Service",
+    "Description": "Helps sellers automate listings, orders, payments, reports, and more. By exchanging data, sellers can integrate Amazon marketplace into their current applications and workflow.",
+    "Category": "eCommerce",
+    "Date": "08.04.2010"
+  },
+  {
+    "APIname": "Reddit",
+    "Description": "The Reddit API allows you to access the user submitted and rated stories on reddit.com. It also provides advanced functionality, including user account information and sub-reddit moderation.",
+    "Category": "News Services",
+    "Date": "11.24.2008"
+  },
+  {
+    "APIname": "MailChimp",
+    "Description": "The Mailchimp API syncs campaign stats and subscribers information between MailChimp and a database. It helps to download a list of unsubscribes to clean inhouse lists, build client portals, and pull...",
+    "Category": "Email",
+    "Date": "12.21.2007"
+  },
+  {
+    "APIname": "Netvibes",
+    "Description": "From their site: UWA (Universal Widget API) is the next generation of the Netvibes wigdet API, the successor of the Netvibes Mini Module API. With this new release, our API becomes a powerful...",
+    "Category": "Widgets",
+    "Date": "11.05.2006"
+  },
+  {
+    "APIname": "SeeqPod",
+    "Description": "Submit a song you like to the SeeqPod Music Discovery API, and it will return a list of Playable Search results that we think you'll like.",
+    "Category": "Music",
+    "Date": "11.04.2006"
+  },
+  {
+    "APIname": "Rhapsody",
+    "Description": "Rhapsody Web Services (RWS) exposes Rhapsody�s playlist creation, user listening history, web page mark-up, RSS feeds, REST XML, search API, JavaScript playback API and friendly URLs (e.g. www....",
+    "Category": "Music",
+    "Date": "02.14.2006"
+  },
+  {
+    "APIname": "DonorsChoose",
+    "Description": "DonorsChoose.org is an online charity that makes it easy for anyone to help students in need.\nHere's how it works: public school teachers from every corner of America post classroom project...",
+    "Category": "Education",
+    "Date": "03.27.2009"
+  },
+  {
+    "APIname": "OpenLayers",
+    "Description": "From their site: OpenLayers is a pure JavaScript library for displaying map data in most modern web browsers, with no server-side dependencies. OpenLayers implements a (still-developing) JavaScript...",
+    "Category": "Mapping",
+    "Date": "07.09.2006"
+  },
+  {
+    "APIname": "Google Drive",
+    "Description": "Google Drive is a cloud based storage platform that lets users access their data, including files of any format, from any device or application that connects to the internet. The Google Drive SDK...",
+    "Category": "Storage",
+    "Date": "04.24.2012"
+  },
+  {
+    "APIname": "SendGrid",
+    "Description": "SendGrid's cloud-based email helps keep emails out of spam folders, provides a cloud service that scales with email demands, and provides email analytics to track opens and clicks.\nSendGrid...",
+    "Category": "Email",
+    "Date": "08.11.2009"
+  },
+  {
+    "APIname": "Photobucket",
+    "Description": "From their site: Photobucket is the most popular site on the internet for uploading, sharing, linking and finding photos, videos and graphics. Now you can add Photobucket features to your application...",
+    "Category": "Photos",
+    "Date": "04.29.2008"
+  },
+  {
+    "APIname": "Google Contacts",
+    "Description": "From their site: The Google Contacts Data API allows client applications to view and update Contacts content in the form of Google Data API feeds. Your client application can request a list of a user...",
+    "Category": "Other",
+    "Date": "03.05.2008"
+  },
+  {
+    "APIname": "Basecamp",
+    "Description": "From 37signals. Basecamp is a unique project collaboration tool. Projects don't fail from a lack of charts, graphs, or reports, they fail from a lack of communication and collaboration. Basecamp...",
+    "Category": "Project Management",
+    "Date": "03.29.2006"
+  },
+  {
+    "APIname": "Smugmug",
+    "Description": "From the site: Everything in the hacks section is provided as-is unless you specifically have a contract with smugmug. They're not supported, endorsed, or guaranteed in any way. We'd love...",
+    "Category": "Photos",
+    "Date": "11.01.2005"
+  },
+  {
+    "APIname": "MapLarge",
+    "Description": "MapLarge offers an API to embed interactive maps on a website, blog or news story. MapLarge is the creator of some of the largest Google Maps implementations on the Internet. MapLarge uses patent...",
+    "Category": "Mapping",
+    "Date": "12.17.2010"
+  },
+  {
+    "APIname": "Google Maps Elevation",
+    "Description": "The Google Elevation web service provides you a simple interface to query locations on the earth for elevation data. Additionally, you may request sampled elevation data along paths, allowing you to...",
+    "Category": "Mapping",
+    "Date": "03.25.2010"
+  },
+  {
+    "APIname": "New York Times Article Search",
+    "Description": "The New York Times Article Search API lets you \"search New York Times articles from 1981 to today, retrieving headlines, abstracts, lead paragraphs and links to associated multimedia. Along with...",
+    "Category": "News Services",
+    "Date": "02.04.2009"
+  },
+  {
+    "APIname": "Google Books",
+    "Description": "Use the Google Book Search Data API to get and modify Book Search content via feeds. Submit full-text searches for books and get book information, ratings, and reviews. Optionally get individual...",
+    "Category": "Reference",
+    "Date": "09.29.2008"
+  },
+  {
+    "APIname": "ESRI ArcGIS JavaScript",
+    "Description": "From their site: The ArcGIS JavaScript API is a lightweight way to embed your GIS maps and tasks in Web applications. For example, you can: Display an interactive map of your own data; execute a GIS...",
+    "Category": "Mapping",
+    "Date": "07.13.2008"
+  },
+  {
+    "APIname": "Google Webmaster Tools",
+    "Description": "Google Webmaster Tools allows client applications to view and update site information and Sitemaps in the form of Google Webmaster Tools Data API feeds. Your client application can use the Google...",
+    "Category": "",
+    "Date": "06.24.2008"
+  },
+  {
+    "APIname": "USPS Track & Confirm",
+    "Description": "The U.S. Postal Service provides a suite of USPS Web Tools that customers may integrate into their own websites to validate or find mailing addresses, track and confirm mail delivery, calculate...",
+    "Category": "Shipping",
+    "Date": "12.06.2005"
+  },
+  {
+    "APIname": "NOAA National Weather Service (NWS)",
+    "Description": "NOAA's National Weather Service provides weather forecasts, watch & warnings, advisories, and storm prediction. \nNational Digital Forecast Database (NDFD) Extensible Markup Language (XML)...",
+    "Category": "Weather",
+    "Date": "09.08.2005"
+  },
+  {
+    "APIname": "Google Gmail OAuth",
+    "Description": "Google Gmail now supports the standard IMAP and SMTP protocols for accessing and sending e-mail messages. The Gmail IMAP and SMTP servers have been extended to support authorization via the industry-...",
+    "Category": "Email",
+    "Date": "03.31.2010"
+  },
+  {
+    "APIname": "Evernote",
+    "Description": "Evernote makes it easy to remember things big and small from your notable life using your computer, phone, and the web. \nEvernote's web service API provides secure access for your applications...",
+    "Category": "Personal Information Management",
+    "Date": "10.08.2008"
+  },
+  {
+    "APIname": "OpenSecrets",
+    "Description": "The OpenSecrets API provides access to the data displayed on OpenSecrets.org. OpenSecrets performs research to track money in U.S. politics and its effect on elections and public policy. Use the API...",
+    "Category": "Government",
+    "Date": "08.21.2008"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Disqus",
+    "Description": "From their site: Disqus provides an API for users to interact with the Disqus backend. Disqus is the webwide discussion community where you carry your conversations with you. For Bloggers - Plug in...",
+    "Category": "Blogging",
+    "Date": "01.27.2008"
+  },
+  {
+    "APIname": "Compete",
+    "Description": "From their site: Compete SnapShot provides information for every site on the internet including site traffic history and competitive analytics a list of available promotional codes across thousands...",
+    "Category": "Statistics",
+    "Date": "02.26.2007"
+  },
+  {
+    "APIname": "CNET",
+    "Description": "From their site: this service will make a wealth of data available to the mash-up community in the creation of rich consumer sites. The initial dataset will include the full CNET catalog of...",
+    "Category": "eCommerce",
+    "Date": "02.01.2007"
+  },
+  {
+    "APIname": "Alexa Web Information Service",
+    "Description": "The Alexa Web Information Service makes Alexa's repository of information about the traffic and structure of the web available to developers.",
+    "Category": "Search",
+    "Date": "08.03.2006"
+  },
+  {
+    "APIname": "UPS Shipping",
+    "Description": "The UPS Shipping API provides UPS shipping functionalities to be integrated into websites and enterprise applications. This API enables the networking of shipping activities at different locations,...",
+    "Category": "Shipping",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Hoiio Voice",
+    "Description": "Hoiio is a global communication service seeking to allow people around the world to communicate via telephone or SMS by routing through Hoiio service. \nThe Hoiio Voice API provides powerful APIs to...",
+    "Category": "Telephony",
+    "Date": "08.18.2011"
+  },
+  {
+    "APIname": "Grooveshark",
+    "Description": "From the website: \"Grooveshark makes available methods for accessing and interacting with Grooveshark data. This API is experimental, and may change. At present all methods require a \"...",
+    "Category": "Music",
+    "Date": "06.30.2010"
+  },
+  {
+    "APIname": "CityGrid",
+    "Description": "The CityGrid network APIs give developers access to premium local content including user reviews, editorial content, merchant messages & more, across 75K neighborhoods nationwide. CityGrid Media...",
+    "Category": "eCommerce",
+    "Date": "03.06.2010"
+  },
+  {
+    "APIname": "Best Buy Products",
+    "Description": "Best Buy's Products API provides full product information for over 1M current and historical products, including pricing, availability, specifications, descriptions, and images.",
+    "Category": "eCommerce",
+    "Date": "10.24.2008"
+  },
+  {
+    "APIname": "GovTrack.us",
+    "Description": "From their site: GovTrack.us tracks the U.S. Congress and is a reference for legislation, votes, Members of Congress, congressional districts, and the congressional record. The database that powers...",
+    "Category": "Government",
+    "Date": "07.03.2008"
+  },
+  {
+    "APIname": "Multimap",
+    "Description": "One-stop service for global AJAX mapping, routing, geocoding, searching and POI from Europe�s #1 provider of mapping and location services to consumers and businesses.",
+    "Category": "Mapping",
+    "Date": "03.23.2007"
+  },
+  {
+    "APIname": "Google Checkout",
+    "Description": "From their site: Google Checkout is a checkout process that you integrate with your website, enabling your customers to buy from you quickly and securely, using a single username and password. Once...",
+    "Category": "eCommerce",
+    "Date": "08.31.2006"
+  },
+  {
+    "APIname": "Zvents",
+    "Description": "From their site: The Zvents Developer API provides programmatic access to objects stored in Zvents. These objects include events, venues, groups, users and tags. The API currently supports a REST...",
+    "Category": "Events",
+    "Date": "02.07.2006"
+  },
+  {
+    "APIname": "Yahoo Map Image",
+    "Description": "The Yahoo! Maps Map Image API allows you to get a URL pointing to a graphic of a map generated according to the parameters you specify.",
+    "Category": "Mapping",
+    "Date": "11.19.2005"
+  },
+  {
+    "APIname": "Pryv",
+    "Description": "Pryv is a platform for collecting personal, time-based data of all kinds to give users a visual overview of their online lives. This data may include health metrics, locations, videos, notes, or...",
+    "Category": "Personal Information Management",
+    "Date": "11.12.2013"
+  },
+  {
+    "APIname": "AT&T In-App Messaging",
+    "Description": "The service provides ability to incorporate SMS and MMS text and media messaging functions to handle messaging traffic to AT&T subscribers and those of other U.S. providers. It exposes subscriber...",
+    "Category": "Messaging",
+    "Date": "01.08.2013"
+  },
+  {
+    "APIname": "Pinterest Domain",
+    "Description": "Pinterest calls itself a \"virtual pinboard,\" allowing users to select photos from web pages to share with their friends. This process, called pinning, helps users collect ideas, recipes,...",
+    "Category": "Social",
+    "Date": "02.09.2012"
+  },
+  {
+    "APIname": "MapBox",
+    "Description": "Mapbox is a suite of open source mapping tools. This API can be used to create interactive maps using a wide range of file formats and databases. It also allows users to host their maps so that they...",
+    "Category": "Mapping",
+    "Date": "10.19.2011"
+  },
+  {
+    "APIname": "Groupon",
+    "Description": "Groupon features a daily deal on the best stuff to do, see, eat, and buy in a variety of cities across the United States. Groupon gets discounts you won't find anywhere else through the power of...",
+    "Category": "eCommerce",
+    "Date": "04.06.2010"
+  },
+  {
+    "APIname": "Forvo",
+    "Description": "The Forvo API allows users to integrate the functionality of Forvo into their websites or applications. Forvo is the largest pronunciation guide in the world, the place where you will find millions...",
+    "Category": "Reference",
+    "Date": "03.24.2010"
+  },
+  {
+    "APIname": "Shopify",
+    "Description": "Shopify is an shopping cart system used in e-commerce. All API usage happens through Shopify applications; shop owners can create applications for themselves through their own admin. Developers are...",
+    "Category": "eCommerce",
+    "Date": "01.05.2010"
+  },
+  {
+    "APIname": "AddThis Menu",
+    "Description": "AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content.\nThe AddThis Menu API is the client-side JavaScript API that you use to add AddThis...",
+    "Category": "Bookmarks",
+    "Date": "12.05.2009"
+  },
+  {
+    "APIname": "Google OpenID",
+    "Description": "The Google OpenID API lets third-party web sites and applications let visitors sign in using their Google user accounts. The OpenID standard allows users to nor have to set up separate login accounts...",
+    "Category": "Security",
+    "Date": "05.14.2009"
+  },
+  {
+    "APIname": "GitHub",
+    "Description": "GitHub is a repository of public open source and private business code. Is is a fast, efficient, distributed version control system ideal for the collaborative development of software. Use it to fork...",
+    "Category": "Tools",
+    "Date": "02.23.2009"
+  },
+  {
+    "APIname": "Goodreads",
+    "Description": "Use the Goodreads API to get the books on a shelf, get your friends' updates, link to a book by ISBN or other method, get the url for a book or author, get a members' friends, look up a...",
+    "Category": "Other",
+    "Date": "10.09.2008"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "uClassify",
+    "Description": "The uClassify API allows you to classify text. You might use it to create a spam filter, categorize web pages, automate e-mail support, detect languages, classify a batch of blog posts, and more....",
+    "Category": "Tools",
+    "Date": "10.05.2008"
+  },
+  {
+    "APIname": "Simply Hired Jobs",
+    "Description": "From their site: Job Search XML API by SimplyHired.com. This API gives developers access to all 7 million job listings on the web and Simply Hired's extensive advanced search capabilities....",
+    "Category": "Jobs",
+    "Date": "07.24.2008"
+  },
+  {
+    "APIname": "CrunchBase",
+    "Description": "CrunchBase is a product of TechCrunch and is a directory of technology companies, people, and investment profiles especially for companies involved in Web 2.0.  The read-only API allows for...",
+    "Category": "Reference",
+    "Date": "07.16.2008"
+  },
+  {
+    "APIname": "COLOURlovers",
+    "Description": "From their site: With the release of the COLOURlovers API, you can now access almost 1 million named colors and more than 325,000 color palettes for your creative projects and applications. Creating...",
+    "Category": "Tools",
+    "Date": "04.20.2008"
+  },
+  {
+    "APIname": "Fire Eagle",
+    "Description": "Note: This is in private beta as of March 2008. From their site: Fire Eagle is the secure and stylish way to share your location with sites and services online while giving you unprecedented control...",
+    "Category": "Social",
+    "Date": "03.04.2008"
+  },
+  {
+    "APIname": "Trulia",
+    "Description": "Trulia is an online residential real estate search engine that lists information on properties for sale, real estate trends and neighborhood information. With the Trulia API, developers can add real...",
+    "Category": "Real Estate",
+    "Date": "02.21.2007"
+  },
+  {
+    "APIname": "Yahoo Related Suggestions",
+    "Description": "The Related Suggestion service provides suggestions for queries related to the submitted query.",
+    "Category": "Search",
+    "Date": "03.10.2006"
+  },
+  {
+    "APIname": "MapQuest",
+    "Description": "MapQuest Platform Services provides businesses and developers with an industry-leading platform that includes the developer tools, resources, and industry expertise for building rich, engaging online...",
+    "Category": "Mapping",
+    "Date": "03.07.2006"
+  },
+  {
+    "APIname": "Amazon Mechanical Turk",
+    "Description": "From their site: Amazon Mechanical Turk provides a web services API for computers to integrate Artificial Artificial Intelligence directly into their processing by making requests of humans....",
+    "Category": "Other",
+    "Date": "01.22.2006"
+  },
+  {
+    "APIname": "Yahoo Travel",
+    "Description": "From their site: Yahoo! Travel is also launching API access to trip planner data through a REST-like interface. With the Yahoo! Travel Trip Plan APIs you can search for trip plans by Yahoo! ID or by...",
+    "Category": "Travel",
+    "Date": "12.21.2005"
+  },
+  {
+    "APIname": "i2space",
+    "Description": "I2space technologies is a travel portal platform that provides the i2space API which allows users to facilitate Bus Booking. The site offers online reservation software for Bus ticket booking with...",
+    "Category": "Travel",
+    "Date": "11.18.2013"
+  },
+  {
+    "APIname": "AngelList",
+    "Description": "AngelList is a community of startups and investors with the goal of making fund raising efficient. Angel investors are listed along with contact information which startups can use to set up...",
+    "Category": "Social",
+    "Date": "09.15.2011"
+  },
+  {
+    "APIname": "Rovi Cloud Services",
+    "Description": "Rovi is a digital entertainment technology company that provides guidance technology, entertainment data, content protection and content networking technology for digital entertainment devices and...",
+    "Category": "Entertainment",
+    "Date": "02.28.2011"
+  },
+  {
+    "APIname": "Magento",
+    "Description": "Magento is a feature-rich, professional open-source eCommerce solution that offers merchants complete flexibility and control over the look, content, and functionality of its online store. The...",
+    "Category": "eCommerce",
+    "Date": "01.13.2011"
+  },
+  {
+    "APIname": "Nexmo SMS",
+    "Description": "Nexmo SMS API allows developers to integrate their applications with the Nexmo SMS services, enabling their users to send and receive messages through Nexmo directly from their applications. Nexmo...",
+    "Category": "Messaging",
+    "Date": "01.10.2011"
+  },
+  {
+    "APIname": "Google Latitude",
+    "Description": "The Google Latitude API allows for websites and developers to integrate with Google Latitude, which lets users update and read their current location, their location history, and other geo-related...",
+    "Category": "Mapping",
+    "Date": "05.21.2010"
+  },
+  {
+    "APIname": "World Weather Online",
+    "Description": "World Weather Online provides weather forecast and weather api content for worldwide city and towns. The Developer Weather API allows developers and programmers to access free 5 day weather feed in...",
+    "Category": "Weather",
+    "Date": "02.03.2010"
+  },
+  {
+    "APIname": "Yahoo Weather",
+    "Description": "The Yahoo Weather RSS feed enables you to get up-to-date weather information for your location. This data can be used as an RSS feed in a feed reader or can be integrated into third party...",
+    "Category": "Weather",
+    "Date": "07.16.2009"
+  },
+  {
+    "APIname": "Weather Underground (Wunderground)",
+    "Description": "Weather Underground provides real-time weather information via the Internet. Weather Underground provides weather reports for cities across the world as well as local weather reports for newspapers...",
+    "Category": "Weather",
+    "Date": "04.02.2009"
+  },
+  {
+    "APIname": "Guardian",
+    "Description": "The Guardian Open Platform is the suite of web services that make it possible for our partners to build applications with the Guardian. We've opened up our platform so that everyone can benefit...",
+    "Category": "News Services",
+    "Date": "03.10.2009"
+  },
+  {
+    "APIname": "Amazon SimpleDB",
+    "Description": "From their site: Amazon SimpleDB is a web service for running queries on structured data in real time. This service works in close conjunction with Amazon Simple Storage Service (Amazon S3) and...",
+    "Category": "Database",
+    "Date": "12.16.2007"
+  },
+  {
+    "APIname": "Discogs",
+    "Description": "From their site: Discogs is a user-built database containing information on artists, labels, and their recordings. Discogs is constantly growing as users submit releases to the database.",
+    "Category": "Music",
+    "Date": "08.27.2007"
+  },
+  {
+    "APIname": "Yahoo Mail",
+    "Description": "The Yahoo Mail Web Service API is a full-featured interface to Yahoo! Mail. With it, you can build applications that display message summary information, parse message contents, manage folders, and...",
+    "Category": "Email",
+    "Date": "03.28.2007"
+  },
+  {
+    "APIname": "Google Single SignOn",
+    "Description": "From their site: Security Assertion Markup Language (SAML) is an XML standard that allows secure web domains to exchange user authentication and authorization data. Using SAML, an online service...",
+    "Category": "Security",
+    "Date": "02.23.2007"
+  },
+  {
+    "APIname": "Vast",
+    "Description": "Vast is a web search service that crawls the entire web and structure the data it finds. Initial verticals include Cars, Jobs, Profiles.",
+    "Category": "Search",
+    "Date": "03.15.2006"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Moves",
+    "Description": "Moves is an application for mobile phones that allows users to automatically record their movements throughout the day. Moves uses data and sensors from smart phones to record how much the user moves...",
+    "Category": "Fitness",
+    "Date": "06.08.2013"
+  },
+  {
+    "APIname": "OpenWeatherMap",
+    "Description": "Open Weather Map provides interactive maps of current and historic weather conditions. The Open Weather Map API allows users to retrieve the current weather at a city or weather station, the...",
+    "Category": "Weather",
+    "Date": "08.01.2012"
+  },
+  {
+    "APIname": "Google Street View Image",
+    "Description": "Google's Street View Image API lets users retrieve Street View panorama or thumbnail images with parameterized HTTP requests. This web service allows these images to be embedded into a web page...",
+    "Category": "Photos",
+    "Date": "03.21.2012"
+  },
+  {
+    "APIname": "Seatwave",
+    "Description": "Seatwave is an online platform to buy and sell tickets for live events, such as concerts, sports, and theater. \nThe Seatwave API is available in two profiles: Discovery API and Purchase API. \nThe...",
+    "Category": "Entertainment",
+    "Date": "02.24.2012"
+  },
+  {
+    "APIname": "Stripe",
+    "Description": "The Stripe API allows developers to access the functionality of Stripe. Some example API methods include sending invoices, accepting payments, managing subscription billing, and editing and managing...",
+    "Category": "Payments",
+    "Date": "10.12.2011"
+  },
+  {
+    "APIname": "Expedia",
+    "Description": "Expedia is a world leader in travel and technology, and the EAN Developer Hub gives developers free access to a set of APIs that power websites, mobile apps, and much more. The EAN APIs can be used...",
+    "Category": "Travel",
+    "Date": "04.14.2011"
+  },
+  {
+    "APIname": "Twitter Streaming",
+    "Description": "From Website: The Twitter Streaming API allows high-throughput near-realtime access to various subsets of public and protected Twitter data. The Streaming API contains public statuses from all users...",
+    "Category": "Social",
+    "Date": "12.17.2010"
+  },
+  {
+    "APIname": "The Movie Database (TMDb)",
+    "Description": "The TMDb API is a resource for any developers that want to integrate movie, TV show and cast data along with posters or movie fan art. themoviedb.org is a free and community edited database.",
+    "Category": "Entertainment",
+    "Date": "06.16.2010"
+  },
+  {
+    "APIname": "Klout",
+    "Description": "Klout allows you to track the impact of your opinions, links and recommendations across your social graph, including Twitter, Facebook, Google Plus and other networks. Klout collects data about the...",
+    "Category": "Analytics",
+    "Date": "04.14.2009"
+  },
+  {
+    "APIname": "Meetup",
+    "Description": "From their site: The Meetup API allows developers to use the Topics, Groups and Events hosted and created on Meetup.com in their own applications and mashups. Any Meetup.com member can request an API...",
+    "Category": "Social",
+    "Date": "07.10.2008"
+  },
+  {
+    "APIname": "Daylife",
+    "Description": "The DayPI gives you access to the platform we at Daylife to power [[http://www.daylife.com Daylife.com]]. The DayPI lets you ask questions of the news from around the world, and build applications on...",
+    "Category": "News Services",
+    "Date": "08.08.2007"
+  },
+  {
+    "APIname": "iTunes & App Store Search",
+    "Description": "This API is available as a resource for participants in Apple's Affiliate Program. It allows the user to place search fields on their website to search for content within the iTunes Store, App...",
+    "Category": "Media",
+    "Date": "12.06.2011"
+  },
+  {
+    "APIname": "Ordrx",
+    "Description": "Ordrx (formerly Ordr.in) is an open platform for online food ordering. Our RESTful APIs give you access to rich, structured data around restaurants, menus, delivery areas and fees as well as...",
+    "Category": "Food",
+    "Date": "09.29.2011"
+  },
+  {
+    "APIname": "Hoiio SMS",
+    "Description": "Hoiio is a global communication service seeking to allow people around the world to communicate via telephone or SMS by routing through Hoiio service. \nThe Hoiio SMS API allows developers to easily...",
+    "Category": "Messaging",
+    "Date": "08.13.2011"
+  },
+  {
+    "APIname": "8coupons",
+    "Description": "The 8coupons API gives developers access to the full feature set of the 8coupons site. 8coupons brings together all the deals from neighborhood restaurants, bars, salons, and stores so that users can...",
+    "Category": "eCommerce",
+    "Date": "12.03.2010"
+  },
+  {
+    "APIname": "Mendeley",
+    "Description": "Mendeley is a platform that allows scholars from all over the world to collaborate, and opens up science for everyone. If you�re inspired to contribute to our mission to build tools to make...",
+    "Category": "Education",
+    "Date": "04.30.2010"
+  },
+  {
+    "APIname": "eBay Finding",
+    "Description": "eBay's Finding API provides programmatic access to search capabilities on the eBay platform. It lets users search and browse for items listed on eBay, and provides metadata to refine searches...",
+    "Category": "Search",
+    "Date": "04.07.2010"
+  },
+  {
+    "APIname": "Walk Score",
+    "Description": "Walk Score calculates the walkability of an address based on the distance from a house to nearby amenities. The Walk Score API uses a RESTful interface and returns the Walk Score for any latitude and...",
+    "Category": "Real Estate",
+    "Date": "12.29.2009"
+  },
+  {
+    "APIname": "Your Mapper",
+    "Description": "Your Mapper aggregates local government data from cities across the nation, standardizes it, geocodes it, and keeps it up to data for you to use in your apps and services.  The Your Mapper API allows...",
+    "Category": "Mapping",
+    "Date": "08.15.2009"
+  },
+  {
+    "APIname": "GetGlue",
+    "Description": "GetGlue is a social networking service where users \"check-in\" to share what movies, videos, or TV shows they are watching, what they are listening to, and what they are reading with their...",
+    "Category": "Social",
+    "Date": "05.30.2009"
+  },
+  {
+    "APIname": "What The Trend?",
+    "Description": "Find out what's trending on Twitter and why. For each trend, What The Trend provides a quick explanation of why it's trending (these blurbs are edited by users, wiki-style).  You can also...",
+    "Category": "Social",
+    "Date": "03.27.2009"
+  },
+  {
+    "APIname": "ShareThis",
+    "Description": "ShareThis lets you share to all of your profiles, blogs, friends and contacts. If you see something you want to share, simply click the ShareThis button on the webpage or your browser plugin for...",
+    "Category": "Social",
+    "Date": "03.05.2009"
+  },
+  {
+    "APIname": "CloudMade",
+    "Description": "The CloudMade APIs and tools provide geo developers with a rich mapping platform. It's built on top of the rapidly growing OpenStreetMap project of open source geo data. \nThe CloudMade Web Maps...",
+    "Category": "Mapping",
+    "Date": "02.16.2009"
+  },
+  {
+    "APIname": "Kiva",
+    "Description": "The Kiva API gives you access to the world's first person-to-person micro-lending website, which empowers individuals to lend directly to unique entrepreneurs in the developing world. Kiva is a...",
+    "Category": "Financial",
+    "Date": "02.03.2009"
+  },
+  {
+    "APIname": "SlideShare",
+    "Description": "From their site: SlideShare is the world's largest community for sharing presentations on the web.  The current API is based upon the REST model and allows you to perform the following actions:...",
+    "Category": "Office",
+    "Date": "07.26.2007"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Jaduka",
+    "Description": "From their site: the Jaduka API gives developers direct access to, and all the inherent benefits of, the world's highest-quality, ubiquitous public switched telephone network (PSTN). Based on...",
+    "Category": "Telephony",
+    "Date": "03.10.2007"
+  },
+  {
+    "APIname": "Yahoo Site Explorer",
+    "Description": "From their site: Yahoo! Site Explorer APIs provide access to information about your site from the Yahoo! Site Explorer service. These APIs help you better understand your traffic and usage --...",
+    "Category": "SEO",
+    "Date": "02.01.2007"
+  },
+  {
+    "APIname": "Google Client Authentication",
+    "Description": "From their site: Developers of installed applications have the option of using a programmatic login method to access Google services protected by user login. An installed application is installed on...",
+    "Category": "Security",
+    "Date": "11.05.2006"
+  },
+  {
+    "APIname": "Revver",
+    "Description": "Revver is an online media syndication network whose mission is to support independent media artists by creating a viral video network that connects makers, sharers, and sponsors in a free and open...",
+    "Category": "Video",
+    "Date": "10.22.2006"
+  },
+  {
+    "APIname": "Cafe Press",
+    "Description": "Allows developers to make queries and run searches against Cafe Press' store and product database.",
+    "Category": "eCommerce",
+    "Date": "03.06.2006"
+  },
+  {
+    "APIname": 23,
+    "Description": "From their site: We believe that APIs should be open and non-vendor specific to create a common field for interoperability and competition. It does not make a lot of sense for us to create a 23 API...",
+    "Category": "Photos",
+    "Date": "02.13.2006"
+  },
+  {
+    "APIname": "BTC-e",
+    "Description": "BTC-e provides an online tool that allows users to freely trade Bitcoins for a number of different currencies worldwide. The BTC-e API allows users to get information about the user's current...",
+    "Category": "Financial",
+    "Date": "03.19.2013"
+  },
+  {
+    "APIname": "IMSAS",
+    "Description": "IMSAS LLC is a leading provider of Web Service solutions across a range of background screening data, MVR records, income and medical license verifications. IMSAS products are delivered using XML...",
+    "Category": "Database",
+    "Date": "10.25.2012"
+  },
+  {
+    "APIname": "Withings",
+    "Description": "Withings is a company focusing on the development of connected measuring devices, such as scales and blood pressure monitors, that can send health information directly to the internet. Withings Body...",
+    "Category": "Medical",
+    "Date": "08.15.2011"
+  },
+  {
+    "APIname": "Google Font",
+    "Description": "The Google Font API helps developers add web fonts to any web page. The advantages of the Google Font API include: a choice of high quality open source fonts, works in most browsers, and is easy to...",
+    "Category": "Other",
+    "Date": "05.21.2010"
+  },
+  {
+    "APIname": "ChartLyrics Lyric",
+    "Description": "ChartLyrics is a lyrics database sorted by artists or songs. The Lyric API uses either a SOAP or REST interface to allow users and developers to access the database. The API provides 2 functions....",
+    "Category": "Music",
+    "Date": "12.29.2009"
+  },
+  {
+    "APIname": "Amazon RDS Relational Database Service",
+    "Description": "Amazon Relational Database Service, aka Amazon RDS, is a web service that lets you set up, operate, and scale a relational database in the cloud. It provides cost-effective and resizable capacity....",
+    "Category": "Database",
+    "Date": "10.27.2009"
+  },
+  {
+    "APIname": "AlchemyAPI",
+    "Description": "AlchemyAPI offers artificial intelligence as a service. We teach computers to learn how to read, and apply our technology to text analysis through a cloud-based API. Our customers use AlchemyAPI to...",
+    "Category": "Machine Learning",
+    "Date": "09.27.2009"
+  },
+  {
+    "APIname": "WatchMouse",
+    "Description": "The WatchMouse service checks the behavior and availability of websites. WatchMouse allows site owners to optimize the internet experience of their customers. \nA worldwide network checks websites...",
+    "Category": "Monitoring",
+    "Date": "09.22.2009"
+  },
+  {
+    "APIname": "CareerBuilder",
+    "Description": "Currently a private API, the CareerBuilder API allows you to integrate their database of over 1.5 million jobs with your software or website. The API provides methods for basic job searching,...",
+    "Category": "Jobs",
+    "Date": "08.04.2009"
+  },
+  {
+    "APIname": "New York Times Congress",
+    "Description": "With the New York Times Congress API, you can get summaries of roll-call votes in the U.S. Congress; get lists of members of Congress; and get vote data, biographical information and role data for...",
+    "Category": "Government",
+    "Date": "01.08.2009"
+  },
+  {
+    "APIname": "Janrain Engage",
+    "Description": "Janrain Engage (formerly RPX) is a service that allows customers to add social networking logins to their websites and applications, using a single login for their website.\nThe Janrain Engage API...",
+    "Category": "Security",
+    "Date": "12.24.2008"
+  },
+  {
+    "APIname": "Bebo",
+    "Description": "From their site: Allows users to share photos with music, and blogs, and draw on members White Boards.",
+    "Category": "Social",
+    "Date": "12.12.2007"
+  },
+  {
+    "APIname": "Veoh",
+    "Description": "Veoh has both Veoh.com and VeohTV. Veoh.com is for video hosting, aggregating, and sharing (700,000+ uploaders, independent producers, major networks). VeohTV is an app where you play videos or...",
+    "Category": "Video",
+    "Date": "06.26.2007"
+  },
+  {
+    "APIname": "Fotolia",
+    "Description": "Fotolia has created an open Application Programming Interface (API). This API has made it possible for creative people to earn more money through affiliation (Partner API), to integrate Fotolia to...",
+    "Category": "Photos",
+    "Date": "01.01.2007"
+  },
+  {
+    "APIname": "EchoSign",
+    "Description": "The EchoSign Document API allows third parties to integrate EchoSign's functionality into their own applications. If you or your users generate documents and contracts that need electronic...",
+    "Category": "Enterprise",
+    "Date": "11.29.2006"
+  },
+  {
+    "APIname": "geocoder.ca",
+    "Description": "We strive to provide the most reliable and accurate geocoding services for Canada and the USA. Using our xml port you can integrate geocoding functionalities into your application in real time. We...",
+    "Category": "Mapping",
+    "Date": "02.15.2006"
+  },
+  {
+    "APIname": "SecondLife",
+    "Description": "From their site: Second Life is a 3-D virtual world entirely built and owned by its residents. Since opening to the public in 2003, it has grown explosively and today is inhabited by nearly 100,000...",
+    "Category": "Games",
+    "Date": "01.29.2006"
+  },
+  {
+    "APIname": "Page2Images",
+    "Description": "Page2Images is a website thumbnail creater optimized for mobile devices. Page2Images exposes its service through a REST API. The API allows websites and applications to generate thumbnails of a given...",
+    "Category": "Screenshots",
+    "Date": "10.19.2013"
+  },
+  {
+    "APIname": "CoinDesk",
+    "Description": "CoinDesk is an information center on Bitcoins, a decentralized digital currency used around the world. One service that CoinDesk provides is the Bitcoin Price Index (BPI). This Bitcoin pricing data...",
+    "Category": "Financial",
+    "Date": "09.21.2013"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "WordPress.org",
+    "Description": "WordPress.org is home of the installable version of WordPress. The WordPress.org API provides a series of call exposing various informational assets and tools. Available resources include stats on...",
+    "Category": "Blogging",
+    "Date": "12.27.2012"
+  },
+  {
+    "APIname": "Edmunds.com Vehicle",
+    "Description": "Edmunds has been a publisher of new and used automotive pricing guides to assist automobile buyers since 1966. In addition to pricing information, Edmunds.com includes car reviews; vehicle...",
+    "Category": "Reference",
+    "Date": "10.30.2011"
+  },
+  {
+    "APIname": "eBay Shopping",
+    "Description": "The eBay Shopping API allows developers can programmatically interact with the eBay website. eBay Shopping Web Services lets developers query eBay for information, and receive data in XML, JSON, or...",
+    "Category": "eCommerce",
+    "Date": "10.19.2011"
+  },
+  {
+    "APIname": "Dailymotion",
+    "Description": "Dailymotion is one of the biggest video platforms in the world, and as such, we offer video storage and viewing capability to our users. We would like to make it easy for you developers to integrate...",
+    "Category": "Video",
+    "Date": "10.04.2011"
+  },
+  {
+    "APIname": "Bing Maps Locations",
+    "Description": "The Bing Maps Locations API can be used to get location information associated with map coordinates. The API also provides functionality to get coordinates for a location based on values such as...",
+    "Category": "Mapping",
+    "Date": "08.08.2011"
+  },
+  {
+    "APIname": "WebKnox Keywords",
+    "Description": "Begun as a research project from the Royal Melbourne Institute of Technology and the University of Technology Dresden, WebKnox is an ontology-driven fact extraction engine built to provide direct,...",
+    "Category": "Search",
+    "Date": "06.10.2011"
+  },
+  {
+    "APIname": "Thrutu",
+    "Description": "Thrutu is an application that lets users access real-time features while making calls on their Android phones. These features can be used to share information and media while on a call. The Thrutu...",
+    "Category": "Telephony",
+    "Date": "06.08.2011"
+  },
+  {
+    "APIname": "Genability",
+    "Description": "Genability provides tools to gain insight into electricity usage. The Genability API is a RESTful interface to detailed, accurate and up-to-date tariff and energy pricing data. Search by zipcode and...",
+    "Category": "Reference",
+    "Date": "04.07.2011"
+  },
+  {
+    "APIname": "Aviary Effects",
+    "Description": "Separate from its flagship Aviary API, an embedded photo editor, this API provides filters and effects. Developers can automatically fix red-eye and color adjust photos. Create watermarks so that all...",
+    "Category": "Photos",
+    "Date": "03.19.2011"
+  },
+  {
+    "APIname": "Active.com",
+    "Description": "The Active.com API provides read-only access to data produced by systems within The Active Network. This includes things like running events, tennis tournaments, triathlons, high school sports...",
+    "Category": "Sports",
+    "Date": "02.08.2011"
+  },
+  {
+    "APIname": "Google Shopping Search",
+    "Description": "Google Shopping Search lets developers create applications to search for products. Developers can create product comparison apps or provide search and discovery tools for users. The API simplifies...",
+    "Category": "eCommerce",
+    "Date": "12.20.2010"
+  },
+  {
+    "APIname": "Clockwork SMS",
+    "Description": "The Clockwork SMS API access to an SMS gateway allowing users to send messages through an application. Clockwork is a service that allows for the sending of bulk SMS. The API uses RESTful, SOAP and...",
+    "Category": "Messaging",
+    "Date": "12.03.2010"
+  },
+  {
+    "APIname": "7digital",
+    "Description": "Open platform providing access to extensive music catalogue of tens of millions of tracks fully licensed by all major labels and indies. 7digital API enables partners to create standalone consumer...",
+    "Category": "Music",
+    "Date": "08.13.2010"
+  },
+  {
+    "APIname": "Google Directions",
+    "Description": "The Google Directions Web Service web service calculates directions between locations using an REST request. Directions may specify origins, destinations and waypoints either as text strings (e.g....",
+    "Category": "Mapping",
+    "Date": "05.19.2010"
+  },
+  {
+    "APIname": "Bandsintown",
+    "Description": "Bandsintown allows users to view local concerts and gives live music recommendations. The Bandsintown concert API allows any website or mobile application to display the information Bandsintown...",
+    "Category": "Music",
+    "Date": "09.27.2009"
+  },
+  {
+    "APIname": "Songkick",
+    "Description": "From their site: At Songkick we've spent a lot of time collecting data about live music, and now we want to see what you can do with it. We're currently putting together an API to allow...",
+    "Category": "Music",
+    "Date": "07.09.2009"
+  },
+  {
+    "APIname": "Tinysong",
+    "Description": "Tinysong is a music sharing service that allows users to type in the name of a song and receive listings of where the song can be found streaming on the internet. The URLs leading to the songs are...",
+    "Category": "Music",
+    "Date": "05.07.2009"
+  },
+  {
+    "APIname": "Zendesk Core",
+    "Description": "Zendesk is a software as a service company that provides businesses with different communication tools. The Zendesk Core API enables developers to integrate the Zendesk platform into their...",
+    "Category": "Support",
+    "Date": "04.20.2009"
+  },
+  {
+    "APIname": "New York Times Newswire",
+    "Description": "With the Times Newswire API, you can get links and metadata for Times articles as soon as they are published on NYTimes.com. The Times Newswire API provides an up-to-the-minute stream of published...",
+    "Category": "News Services",
+    "Date": "03.31.2009"
+  },
+  {
+    "APIname": "New York Times Best Sellers",
+    "Description": "The New York Times Best Sellers API lets you get data from all New York Times best-seller lists including rank history for specific best sellers. Four request types are available: get a best-seller...",
+    "Category": "News Services",
+    "Date": "01.27.2009"
+  },
+  {
+    "APIname": "Mobypicture",
+    "Description": "The Moby API allows you to post photos and other content to their website and access that content from anywhere in the world. The API supports both posting and reading of images.",
+    "Category": "Photos",
+    "Date": "12.04.2008"
+  },
+  {
+    "APIname": "Eventbrite",
+    "Description": "Eventbrite's API web services allows developers to create users and events as well as pull the associated events into an application. Using the API, developers may access Eventbrite data and...",
+    "Category": "Events",
+    "Date": "08.02.2008"
+  },
+  {
+    "APIname": "Zemanta",
+    "Description": "The Zemanta API brings contextually relevant content from around the web to you as you type. The web service API brings finds related Articles, Images, Hyperlinks and Tags right to your app. Use the...",
+    "Category": "Blogging",
+    "Date": "07.20.2008"
+  },
+  {
+    "APIname": "MOO",
+    "Description": "From their site: Welcome to MOO. We're a printing company. Customers create a pack and then the pack is printed to pre-defined products. Create an XML document to determine where the user is...",
+    "Category": "Photos",
+    "Date": "05.26.2008"
+  },
+  {
+    "APIname": "IVA's Video",
+    "Description": "Internet Video Archive's API connects you to our huge library of video assets, our massive ever growing metadata collection, and our amassing number of images.\nOur video assets include: movie...",
+    "Category": "Video",
+    "Date": "05.18.2008"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Twitter Search",
+    "Description": "Twitter search API with optional restriction on language, from, to, and hashtags. Use it to find tweets, people and trends. Note that Summize was acquired by Twitter and is now their official search...",
+    "Category": "Search",
+    "Date": "04.12.2008"
+  },
+  {
+    "APIname": "MyVox",
+    "Description": "From their site: With MyVox, you can voice-enable any application you can imagine. MyVox turns any phone into a microphone hooked up to your application.",
+    "Category": "Telephony",
+    "Date": "02.21.2008"
+  },
+  {
+    "APIname": "True Knowledge",
+    "Description": "True Knowledge is a new class of Internet search technology aimed at improving the experience of finding known facts on the Web. The True Knowledge Answer Engine gives consumers instant answers to...",
+    "Category": "Search",
+    "Date": "12.06.2007"
+  },
+  {
+    "APIname": "Formstack",
+    "Description": "Online forms service for needs like marketing campaigns, surveys, order forms and registrations.",
+    "Category": "Forms",
+    "Date": "09.16.2007"
+  },
+  {
+    "APIname": "Microsoft Silverlight Streaming",
+    "Description": "The Silverlight Streaming service REST protocol is used to upload Silverlight applications for use on web pages.",
+    "Category": "Other",
+    "Date": "05.01.2007"
+  },
+  {
+    "APIname": "SharedBook",
+    "Description": "From their site: SharedBook is a technology company that has created an on demand, reverse publishing platform that allows users to extract data and content from multiple sources, manipulate it, then...",
+    "Category": "Other",
+    "Date": "04.10.2007"
+  },
+  {
+    "APIname": "Aonaware Dictionary",
+    "Description": "The Aonaware Dictionary API provides access to dictionary definitions pulled from multiple databases. This API accesses the resources of dict.org to generate results. It uses SOAP protocol and...",
+    "Category": "Reference",
+    "Date": "11.19.2006"
+  },
+  {
+    "APIname": "RapLeaf",
+    "Description": "The personalization API provides a simple interface to rich data about consumers.  Developers use the data provided by the API to create more personalized experiences for consumers.\nQuery with an...",
+    "Category": "Email",
+    "Date": "08.13.2006"
+  },
+  {
+    "APIname": "Alexa Top Sites",
+    "Description": "From their site: The Alexa Top Sites web service provides access to lists of web sites ordered by Alexa Traffic Rank. Using the web service developers can understand traffic rankings from the largest...",
+    "Category": "SEO",
+    "Date": "08.04.2006"
+  },
+  {
+    "APIname": "Nestoria",
+    "Description": "Nestoria is a vertical search engine for property in the UK and Spain. The site offers an API to their database of geocoded properties.",
+    "Category": "Real Estate",
+    "Date": "07.29.2006"
+  },
+  {
+    "APIname": "Microsoft MapPoint",
+    "Description": "Note that this is a commercial, fee-based service but that 45 trial accounts are available.",
+    "Category": "Mapping",
+    "Date": "11.12.2005"
+  },
+  {
+    "APIname": "43Things",
+    "Description": "43 Things is a social networking web site that is built on the principles of tagging, rather than links. Users create accounts and then list a number of goals or hopes; these goals are connected to...",
+    "Category": "Goals",
+    "Date": "10.30.2005"
+  },
+  {
+    "APIname": "Ning",
+    "Description": "Ning is a platform for creating social networks. The Ning REST API integrates with any Ning Pro account to import, export, and share data from apps running on Ning across the web or onto your desktop...",
+    "Category": "Social",
+    "Date": "10.11.2005"
+  },
+  {
+    "APIname": "LiveJournal",
+    "Description": "Rooted in a tradition of global participation, LiveJournal is on the forefront of personal publishing, community involvement, and individual expression.  LiveJournal continues to deliver improved...",
+    "Category": "Blogging",
+    "Date": "09.06.2005"
+  },
+  {
+    "APIname": "BitStamp HTTP",
+    "Description": "BitStamp is an online exchange for bitcoins. Online consumers and traders can use it as a global marketplace to buy and sell BitCoins. Users make cash deposits to buy bitcoins from other users. They...",
+    "Category": "Financial",
+    "Date": "06.15.2012"
+  },
+  {
+    "APIname": "ESPN",
+    "Description": "ESPN.com is an online platform for multiple sports news, statistics, team information, and player information. ESPN.com offers sports scores, standings, and other statistics for a variety of sports...",
+    "Category": "Sports",
+    "Date": "03.05.2012"
+  },
+  {
+    "APIname": "WordPress.com",
+    "Description": "WordPress.com is the hosted version of the popular open source blogging software. WordPress.com exposes site, post, comment, and like data via an REST Application Programming Interface (API) in a...",
+    "Category": "Blogging",
+    "Date": "08.24.2011"
+  },
+  {
+    "APIname": "RunKeeper Health Graph",
+    "Description": "RunKeeper is an online health & fitness tracking service built on top of the Health Graph.\nThe Health Graph allows users to keep track of their workouts, nutrition information, sleep and body...",
+    "Category": "Sports",
+    "Date": "07.19.2011"
+  },
+  {
+    "APIname": "uShip",
+    "Description": "uShip is an online shipping marketplace that connects people with customer-reviewed transport companies. Transporters use uShip to place competing bids to win a customer's business and meet...",
+    "Category": "Shipping",
+    "Date": "04.14.2011"
+  },
+  {
+    "APIname": "Instagram Real-time",
+    "Description": "Instagram Real-time API provides access to Instagram photos as they're added. Subscribe to users, tags, locations or geographies and receive notice when there are new photos. The real-time API...",
+    "Category": "Photos",
+    "Date": "02.24.2011"
+  },
+  {
+    "APIname": "PicPlz",
+    "Description": "Photo sharing mobile application picplz has a new API that has entered beta. The service provides read/write access to the picplz platform for sharing and editing photos. Developers can upload photos...",
+    "Category": "Photos",
+    "Date": "01.26.2011"
+  },
+  {
+    "APIname": "Amazon SES",
+    "Description": "Amazon Simple Email Service, or SES, provides cloud-based email as a service. Amazon SES simplifies sending emails from applications being hosted on services such as Amazon EC2. Because email...",
+    "Category": "Email",
+    "Date": "01.25.2011"
+  },
+  {
+    "APIname": "Google URL Shortener",
+    "Description": "The Google URL Shortener takes long URLs and creates short links on the goo.gl domain name. The REST-based API requires authentication with an API Key and Auth Token (OAuth).",
+    "Category": "URL Shortener",
+    "Date": "01.11.2011"
+  },
+  {
+    "APIname": "Yipit",
+    "Description": "Per provider, this API is now closed and API keys are no longer being distributed. Users of the API before it was closed continue to have access to the API but that is not being fully supported",
+    "Category": "eCommerce",
+    "Date": "12.20.2010"
+  },
+  {
+    "APIname": "KooKoo",
+    "Description": "KooKoo acts as an interface between your applications and telephony applications, allowing users to setup an extra delivery channel for their web applications. It can perform telephony applications...",
+    "Category": "Telephony",
+    "Date": "12.08.2010"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "JournalTOCs",
+    "Description": "Developers can use the JournalTOCs API to embed the search functionality within their web applications to make the most of the journal TOC RSS feeds metadata. Anyone with access to RSS Readers can...",
+    "Category": "Search",
+    "Date": "12.07.2010"
+  },
+  {
+    "APIname": "Yellow",
+    "Description": "YellowAPI™ is an application programming interface that allows you to stream top Canadian local search content into your applications. Using the database of over 1.5 million business listings and...",
+    "Category": "Search",
+    "Date": "09.17.2010"
+  },
+  {
+    "APIname": "Pusher",
+    "Description": "Pusher is a simple hosted API for quickly, easily and securely adding realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.\nWe offer a...",
+    "Category": "Tools",
+    "Date": "09.13.2010"
+  },
+  {
+    "APIname": "MusixMatch",
+    "Description": "The musiXmatch LyriX API is 100% legal, because it pays licensing fees. Search for songs by artist, title or lyrics. Receive the lyrics in return. MusiXmatch�s LyriX API also lets you surround...",
+    "Category": "Music",
+    "Date": "08.09.2010"
+  },
+  {
+    "APIname": "Zappos",
+    "Description": "We're happy to announce that we've launched our public API!  Find out full details at http://developer.zappos.com.\nA few of the things you can accomplish with our API:\nSearch : Leverage...",
+    "Category": "eCommerce",
+    "Date": "06.16.2010"
+  },
+  {
+    "APIname": "SugarSync",
+    "Description": "The SugarSync API lets developers integrate SugarSync with their desktop and Web apps, build apps to extend SugarSync functionality, or simply leverage the SugarSync cloud. SugarSync is an on-demand...",
+    "Category": "Storage",
+    "Date": "03.24.2010"
+  },
+  {
+    "APIname": "Factual",
+    "Description": "Factual is an open data platform for application developers that leverages large-scale data aggregation and community exchange. Our focus is on making data more accessible (i.e. cheaper, higher...",
+    "Category": "Database",
+    "Date": "10.22.2009"
+  },
+  {
+    "APIname": "IP Location",
+    "Description": "The IP Location API enables you to detect user location based on a user's IP address. By providing the API with an IP address and it returns the country that IP is registered to. Use it you...",
+    "Category": "Mapping",
+    "Date": "09.27.2009"
+  },
+  {
+    "APIname": "SEOmoz",
+    "Description": "SEOmoz provides companies around the world with consulting, Internet marketing and search engine optimization services. Our goal is to provide a high level of service and education to businesses,...",
+    "Category": "Search",
+    "Date": "07.20.2009"
+  },
+  {
+    "APIname": "Rezgo",
+    "Description": "Rezgo is tour operator software designed for companies who run tours, activities, and attractions. Many of the companies using Rezgo for their on-line bookings include: whale watching tours, river...",
+    "Category": "Travel",
+    "Date": "07.09.2009"
+  },
+  {
+    "APIname": "Yahoo Placemaker",
+    "Description": "Yahoo Placemaker is a new \"geo-enrichment\" platform. The freely-available API enables developers and publishers to make applications and data sets location-aware by determining the \"...",
+    "Category": "Mapping",
+    "Date": "05.20.2009"
+  },
+  {
+    "APIname": "Maponics",
+    "Description": "A professional-grade GIS data provider offering neighborhood boundaries dataset via an API. Also an API for neighborhood boundaries, ZIP Code boundaries and postal carrier route boundaries.",
+    "Category": "Mapping",
+    "Date": "04.02.2009"
+  },
+  {
+    "APIname": "TripIt",
+    "Description": "The TripIt API allows users to access the TripIt's information about travel and itineraries. TripIt facilitates integration and organization of travel information from many different sources....",
+    "Category": "Travel",
+    "Date": "01.29.2009"
+  },
+  {
+    "APIname": "TwitterCounter",
+    "Description": "Use the TwitterCounter API to retrieve all data stored in TwitterCounter for a particular Twitter username. TwitterCounter keeps stats about Twitter users, such as the most popular, top 10 lists, and...",
+    "Category": "Social",
+    "Date": "01.17.2009"
+  },
+  {
+    "APIname": "Shizzow",
+    "Description": "The Shizzow API lets you announce your location to your friends. You can add and remove friends, add and remove locations, post arrival and departure times and more.",
+    "Category": "Social",
+    "Date": "01.13.2009"
+  },
+  {
+    "APIname": "Hyves",
+    "Description": "Use the Hyves API to get blog posts, get Hyves' user albums, view friends, view invitations, create gadgets, get user blog posts, get blog comments, create blog posts, get tips, get user...",
+    "Category": "Social",
+    "Date": "10.30.2008"
+  },
+  {
+    "APIname": "LongURL",
+    "Description": "Use the LongURL API to expand shortened URLs from TinyURL, etc. Submit a shortened URL and then get its long equivalent returned. You can also use the API to get a list of known shortening services...",
+    "Category": "",
+    "Date": "10.27.2008"
+  },
+  {
+    "APIname": "Social Actions",
+    "Description": "Use the Social Actions Open API to search the SocialActions.com database of volunteer and philanthropy opportunities, called social actions, useful for those interested in peer-to-peer social change...",
+    "Category": "Other",
+    "Date": "09.14.2008"
+  },
+  {
+    "APIname": "Blip.fm",
+    "Description": "Use the Blip.fm API to access Blip.fm users and their data. Get a Blip by user ID, or for multiple user IDs. Get the most recent Blips for a user, sequentially listed by most recent. Create your...",
+    "Category": "Music",
+    "Date": "08.23.2008"
+  },
+  {
+    "APIname": "NPR",
+    "Description": "The NPR API provides an open and extensive way for users to share and mash-up the radio station's content.  NPR will showcase widgets and applications built with its API in a special widgets...",
+    "Category": "News Services",
+    "Date": "07.15.2008"
+  },
+  {
+    "APIname": "Yahoo Internet Location Platform",
+    "Description": "From their site: a resource for managing all geo-permanent named places on Earth. Our purpose in creating the Internet Location Platform is to provide the Yahoo! Geographic Developer Community with...",
+    "Category": "Mapping",
+    "Date": "05.13.2008"
+  },
+  {
+    "APIname": "Scribd Platform",
+    "Description": "From their site: A REST-based API with methods for uploading, converting, editing, deleting, and searching documents. Using the API, you can use Scribd as a back-end for an application that needs to...",
+    "Category": "Office",
+    "Date": "03.27.2008"
+  },
+  {
+    "APIname": "Amazon Fulfillment Web Service",
+    "Description": "Amazon Fulfillment Web Service (Amazon FWS) allows merchants to access Amazon.com's world-class fulfillment capabilities through a simple web services interface. Merchants can programmatically...",
+    "Category": "eCommerce",
+    "Date": "03.20.2008"
+  },
+  {
+    "APIname": "Google Book Search Book Viewability",
+    "Description": "The Google Book Search Book Viewability API enables developers to: Link to Books in Google Book Search using ISBNs, LCCNs, and OCLC numbers; Know whether Google Book Search has a specific title and...",
+    "Category": "Search",
+    "Date": "03.13.2008"
+  },
+  {
+    "APIname": "Widgetbox",
+    "Description": "Our mission is to help people make and get widgets and apps for their social network profile, blog, or start page.  Through our AppAccelerator, developers can easily convert their web widgets into...",
+    "Category": "Widgets",
+    "Date": "12.28.2007"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Highrise",
+    "Description": "From their site: Online contact manager and simple CRM. Keep track of who your business talks to, what was said, and what to do next.",
+    "Category": "Enterprise",
+    "Date": "11.18.2007"
+  },
+  {
+    "APIname": "Google Apps Email Migration",
+    "Description": "From their site: The Google Apps Email Migration API allows administrators and users of Google Apps to migrate mail from legacy email systems into their domains hosted Gmail accounts. Note: This API...",
+    "Category": "Email",
+    "Date": "11.18.2007"
+  },
+  {
+    "APIname": "Orkut",
+    "Description": "Note: As of November 2007 this API is in limited beta in a sandbox mode only. From their site: An Orkut application is comprised of several parts, all of which combine to form a structured user...",
+    "Category": "Social",
+    "Date": "11.08.2007"
+  },
+  {
+    "APIname": "OpenSocial",
+    "Description": "Note: This is an API standard used by many API providers, not just Google. For all compatible APIs listed on ProgrammableWeb, use the [[/apitag/opensocial opensocial tag]]. OpenSocial provides a...",
+    "Category": "Social",
+    "Date": "11.04.2007"
+  },
+  {
+    "APIname": "DHL",
+    "Description": "DHL XML Services provides developers the ability to integrate DHL's service availability, transit times, rates, shipment tracking and more from more than 140 countries. The service allows...",
+    "Category": "Shipping",
+    "Date": "10.25.2007"
+  },
+  {
+    "APIname": "EVE Online CREST Carbon RESTful",
+    "Description": "The CREST API is a read and write API for use with EVE Online Universe game.  This API allows for scalable cluster interaction and uses HTTP GET, PUT, and DELETE requests to modify representation of...",
+    "Category": "Games",
+    "Date": "07.15.2007"
+  },
+  {
+    "APIname": "Adobe on AIR Bus Tour",
+    "Description": "From their site: You can use these APIs and feeds to keep up with the latest news and content from the [Adobe on AIR] tour, or to build web and AIR based applications and mash-ups. The Adobe...",
+    "Category": "Other",
+    "Date": "07.13.2007"
+  },
+  {
+    "APIname": "Authorize.Net",
+    "Description": "From their site: Since 1996, Authorize.Net has been a leading provider of Internet Protocol (IP) based payment gateway services, enabling merchants to authorize, settle and manage credit card and...",
+    "Category": "Payments",
+    "Date": "02.20.2007"
+  },
+  {
+    "APIname": "Google Web Authentication",
+    "Description": "From their site: Google Accounts authentication for web-based applications allows the application to access a Google service protected by a user's Google account. To maintain a high level of...",
+    "Category": "Security",
+    "Date": "11.05.2006"
+  },
+  {
+    "APIname": "WebThumb",
+    "Description": "From their site: Web Page Thumbnails with API support.",
+    "Category": "",
+    "Date": "11.01.2006"
+  },
+  {
+    "APIname": "Windows Live Contacts Control",
+    "Description": "From their site: The Windows Live Contacts control is a client-side browser JavaScript object that enables visitors to use their Windows Live Contacts with your Web site.  Instead of typing a...",
+    "Category": "Personal Information Management",
+    "Date": "10.18.2006"
+  },
+  {
+    "APIname": "FreshBooks",
+    "Description": "From their site: FreshBooks is an online invoicing and time tracking service that saves you time and makes you look professional - Fortune 500 professional.",
+    "Category": "Financial",
+    "Date": "09.07.2006"
+  },
+  {
+    "APIname": "Internet Archive",
+    "Description": "From their site: The Internet Archive is a 501(c)(3) non-profit that was founded to build an Internet library, with the purpose of offering permanent access for researchers, historians, and scholars...",
+    "Category": "Reference",
+    "Date": "09.10.2005"
+  },
+  {
+    "APIname": "Bloglines",
+    "Description": "From their site: Bloglines is a FREE online service for searching, subscribing, creating and sharing news feeds, blogs and rich web content. With Bloglines, there is no software to download or...",
+    "Category": "Feeds",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "US Stocks Fundamentals",
+    "Description": "The US Stocks Fundamentals API offers access to stock data based on the U.S. Securities and Exchange Commission. Over 12,000 companies are supported with over 8,000 indicators. Developers need to...",
+    "Category": "Stocks",
+    "Date": "08.24.2016"
+  },
+  {
+    "APIname": "Bank IFSC Code",
+    "Description": "Use the eBank IFSC Code API to access eBank's database of over 170 Indian banks and 150,000 branches. The API is free, and has no limits for usage. However, interested parties must register for...",
+    "Category": "Banking",
+    "Date": "11.08.2015"
+  },
+  {
+    "APIname": "Food",
+    "Description": "The Food and Recipe API is spoonacular's Food, Recipe, Menu, Restaurant and Nutrition API which allows users to access over 360,000 recipes and 80,000 food products. The API has a food ontology...",
+    "Category": "Food",
+    "Date": "08.29.2015"
+  },
+  {
+    "APIname": "Uber",
+    "Description": "Using the Uber API, developers can integrate the power of Uber into 3rd party applications. Calls to the API can be made to request information on available car types, driver location expressed in...",
+    "Category": "Transportation",
+    "Date": "08.20.2014"
+  },
+  {
+    "APIname": "Google Play Developer",
+    "Description": "The Google Play Developer API allows developers the opportunity to automate tasks concerning subscriptions, in-app purchasing, and general app-management. One may gain access to the API by signing...",
+    "Category": "Purchasing",
+    "Date": "07.29.2014"
+  },
+  {
+    "APIname": "Finansportalen",
+    "Description": "Finansportalen is a site provided by the Norwegian Consumer Protection Agency to  provide consumers the ability to make good choices in the market for financial services. The portal is a tool that...",
+    "Category": "Feeds",
+    "Date": "02.28.2014"
+  },
+  {
+    "APIname": "Walmart Open",
+    "Description": "The Walmart Open APIs provide developers with access to Walmart.com's product catalogue information and enable affiliates to earn money through customer referrals. The Data Feed and Special...",
+    "Category": "eCommerce",
+    "Date": "11.29.2013"
+  },
+  {
+    "APIname": "Giphy",
+    "Description": "Giphy is an animated search engine for discovering and sharing GIF images. Giphy exposes its search capabilities through a RESTlike API. The API is comprised of nine JSON endpoints, allowing...",
+    "Category": "Search",
+    "Date": "11.25.2013"
+  },
+  {
+    "APIname": "Jawbone UP",
+    "Description": "Jawbone develops human-centered wearable technology and audio devices. Jawbone’s flagship product is Jambox, a wireless speaker and speakerphone. Jawbone’s UP is a wristband and app that tracks...",
+    "Category": "Tools",
+    "Date": "09.20.2013"
+  },
+  {
+    "APIname": "Strava",
+    "Description": "Strava is a social fitness service that allows users to share, compare and compete with other users' personal fitness data via mobile and online apps. Focusing on cyclists and runners, Strava...",
+    "Category": "Social",
+    "Date": "10.16.2012"
+  },
+  {
+    "APIname": "Walgreens QuickPrints",
+    "Description": "QuickPrints allows mobile application developers to include the ability for their app users to print photos to any of the 8,000+ Walgreens locations.\nWith every photo order that is successfully...",
+    "Category": "Photos",
+    "Date": "07.10.2012"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Zapier",
+    "Description": "Zapier is an application that integrates applications together. Users can choose triggers that automatically push data and content from one application to another. \nWith Zapier, developers and users...",
+    "Category": "Tools",
+    "Date": "06.21.2012"
+  },
+  {
+    "APIname": "Plivo",
+    "Description": "Plivo is a telephony platform for integration with other apps. It is built to be integrative and take desired call making and receiving functions off of developers’ hands. It provides capacity for...",
+    "Category": "Telephony",
+    "Date": "05.13.2012"
+  },
+  {
+    "APIname": "500px",
+    "Description": "500px is an online community for photographers and fans of photography. Photographers can upload their pictures to share with other 500px users, and all users can browse and search the photo...",
+    "Category": "Photos",
+    "Date": "10.17.2011"
+  },
+  {
+    "APIname": "RubyGems",
+    "Description": "RubyGems.org is the Ruby community's gem hosting service. Developers can publish their gems and install them. The API lets users interact with the site and find out more information about...",
+    "Category": "Reference",
+    "Date": "10.07.2011"
+  },
+  {
+    "APIname": "Spy Dialer",
+    "Description": "Spy Dialer lets users identify missed calls and mystery numbers by going directly to any U.S. based cell phone's outgoing voicemail to hear whose cell phone it is. With the Spy Dialer API, users...",
+    "Category": "Telephony",
+    "Date": "09.19.2011"
+  },
+  {
+    "APIname": "Bing Maps Search",
+    "Description": "Bing Maps Search Service allows users to parse a mapping related search queries as well as return search results. Search filters include property name and ID, minimum and maximum values,...",
+    "Category": "Mapping",
+    "Date": "08.08.2011"
+  },
+  {
+    "APIname": "Mt Gox",
+    "Description": "Mt Gox allows users to trade US Dollars for Bitcoins and vice versa. The Mt Gox API allows users to fetch public data and place orders. It uses RESTful calls and responses are formatted in JSON.",
+    "Category": "Financial",
+    "Date": "07.01.2011"
+  },
+  {
+    "APIname": "Google Distance Matrix",
+    "Description": "The Google Distance Matrix API is a service that provides travel distance and time for a matrix of origins and destinations. The information returned is based on the recommended route between start...",
+    "Category": "Mapping",
+    "Date": "05.18.2011"
+  },
+  {
+    "APIname": "Instapaper",
+    "Description": "The Instapaper API allows third-party applications to add URLs to Instapaper. Instapaper is a service that lets users save long web pages to read at a later time. The API has a single method. It uses...",
+    "Category": "Bookmarks",
+    "Date": "12.21.2010"
+  },
+  {
+    "APIname": "iFixit",
+    "Description": "The iFixit API provides programmatic access to iFixit enabling anyone to write applications and utilities on top of the repair database. iFixit is the world's largest collection of free...",
+    "Category": "Reference",
+    "Date": "12.21.2010"
+  },
+  {
+    "APIname": "PeerIndex",
+    "Description": "PeerIndex is a social media analytics company that is building the Influence Graph: who influences whom in which topics across the social platforms. The PeerIndex API provides programmatic access to...",
+    "Category": "Social",
+    "Date": "12.10.2010"
+  },
+  {
+    "APIname": "Topsy",
+    "Description": "As the only Twitter partner certified as both a data reseller and an analytics provider, Topsy APIs give you access to any and all social conversations, in their entirety or summarized—whether...",
+    "Category": "Social",
+    "Date": "08.31.2010"
+  },
+  {
+    "APIname": "Bandcamp",
+    "Description": "From the website: \"With version 1 of the API you can query artists' discographies and get the information you need to write a custom embedded audio player, with metadata such as track...",
+    "Category": "Music",
+    "Date": "05.18.2010"
+  },
+  {
+    "APIname": "Biblia.com",
+    "Description": "The Biblia.com API provides Web, mobile, and desktop applications with access to Bible text through web services. \nBiblia.com is an interdenominational project allowing for online bible study....",
+    "Category": "Reference",
+    "Date": "03.27.2010"
+  },
+  {
+    "APIname": "TourCMS Marketplace",
+    "Description": "TourCMS provides a full website and reservation management system for small and medium sized tour operators. These API calls are to access your live product data in realtime. They can be used by...",
+    "Category": "Travel",
+    "Date": "02.24.2010"
+  },
+  {
+    "APIname": "Sears",
+    "Description": "The Sears API exposes the Sears eCommerce catalog. The platform provides access to Sears' product catalog, featuring full product information including pricing, availability, specifications,...",
+    "Category": "eCommerce",
+    "Date": "02.17.2010"
+  },
+  {
+    "APIname": "BlankSlate",
+    "Description": "BlankSlate is a platform as a service with a complete set of building blocks accessed by API that you can use to make all kinds of web applications.",
+    "Category": "Database",
+    "Date": "02.15.2010"
+  },
+  {
+    "APIname": "Twitgoo",
+    "Description": "Twitgoo is a quick, reliable, and safe way to share images for Twitter. The Twitgoo API allows you to create an interface to talk to the Twitgoo service and create applications that can use Twitgoo...",
+    "Category": "Social",
+    "Date": "02.09.2010"
+  },
+  {
+    "APIname": "BigCommerce",
+    "Description": "BigCommerce is an online ecommerce service used to power online stores. BigCommerce contains a RESTful API that allows remote retrieval of customers, orders and products via a XML web service. The...",
+    "Category": "eCommerce",
+    "Date": "02.03.2010"
+  },
+  {
+    "APIname": "AddThis Sharing Endpoints",
+    "Description": "AddThis is a free way to boost traffic back to your site by \nmaking it easier for visitors to share your content. The API is a set of URL endpoints that allow you to share content from your website...",
+    "Category": "Social",
+    "Date": "12.05.2009"
+  },
+  {
+    "APIname": "sletoh.com",
+    "Description": "Compare 70,000 hotels from 15 hotel websites including Hotels.com, HotelClub and ebookers. One search on sletoH.com shows hotel prices from across the web. Use our XML API to get real-time hotel...",
+    "Category": "Travel",
+    "Date": "07.08.2009"
+  },
+  {
+    "APIname": "Active",
+    "Description": "The Active.com API provides read-only access to data produced by systems within The Active Network.  This includes things like running events, tennis tournaments, triathlons and highschool sports...",
+    "Category": "Events",
+    "Date": "04.13.2009"
+  },
+  {
+    "APIname": "Jigsaw",
+    "Description": "Jigsaw is an online directory of free, downloadable Company information and more than 11 million business Contacts. Every Jigsaw business Contact is complete with hard-to-find direct dials and email...",
+    "Category": "Enterprise",
+    "Date": "02.24.2009"
+  },
+  {
+    "APIname": "Yahoo GeoPlanet",
+    "Description": "Manage all geo-permanent named places on Earth. The API provides the vocabulary and grammar to describe the world's geography in an unequivocal, permanent, and language-neutral manner.",
+    "Category": "Mapping",
+    "Date": "01.23.2009"
+  },
+  {
+    "APIname": "ConstantContact",
+    "Description": "Integrate your software with Email Marketing from Constant Contact.  Our API allows you to seamlessly integrate our industry-leading Email Marketing service. Today more than 300,000 small businesses...",
+    "Category": "Email",
+    "Date": "12.22.2008"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "zanox",
+    "Description": "zanox Web Services enables developers to access zanox infrastructure and services. With the API, you can enhance your advertising solutions and monetize your applications. The zanox company focuses...",
+    "Category": "Advertising",
+    "Date": "11.15.2008"
+  },
+  {
+    "APIname": "Yes Broadcast DB",
+    "Description": "YES.com has a real-time database of most US Radio station now-playing music information, including logs, charts, artist, song, and genre information.  This simple API opens up direct access to the...",
+    "Category": "Music",
+    "Date": "11.04.2008"
+  },
+  {
+    "APIname": "FlightStats",
+    "Description": "FlightStats is a cutting-edge data services company focused on commercial aviation. We are the leading provider of real-time global flight data to companies and individuals across the travel...",
+    "Category": "Data",
+    "Date": "10.23.2008"
+  },
+  {
+    "APIname": "New York Times Movie Reviews",
+    "Description": "The New York Times Movie Review API gives you access to movie reviews by the New York Times critics. The API gives access to over 22,000 New York Times movie reviews from today back to 1924. Using...",
+    "Category": "Video",
+    "Date": "10.14.2008"
+  },
+  {
+    "APIname": "Thumbalizr",
+    "Description": "Use the Thumbalizr API to submit URLs to automatically get a thumbnail image of that URL's web page contents. The thumbnails in JPG or PNG are sized according to the pixel size parameter (width...",
+    "Category": "Photos",
+    "Date": "09.25.2008"
+  },
+  {
+    "APIname": "Viddler",
+    "Description": "Use the Viddler API to view and update Viddler's data. You can upload a video, create a Viddler account, get the public sections of a user profile, update user profile data, generate a token for...",
+    "Category": "Video",
+    "Date": "09.03.2008"
+  },
+  {
+    "APIname": "Dipity",
+    "Description": "The Dipity API lets you put your photos, online life, or blog history on a timeline. Use stock photos to create an interactive timeline that educates readers about any topic. Create a mashup that...",
+    "Category": "Photos",
+    "Date": "08.02.2008"
+  },
+  {
+    "APIname": "openDada",
+    "Description": "Dada Entertainment is a mobile content provider with the largest paying customer base in the US. Dada offers MP3 music downloads with no DRM and Ringtones across all major US carriers. They also have...",
+    "Category": "Music",
+    "Date": "07.12.2008"
+  },
+  {
+    "APIname": "aideRSS",
+    "Description": "AideRSS is an intelligent assistant, which continuously monitors RSS feeds, finds the good stuff, creates a PostRank, and delivers it to you. The philosophy behind our API is to provide full...",
+    "Category": "Feeds",
+    "Date": "06.11.2008"
+  },
+  {
+    "APIname": "BookMooch",
+    "Description": "From their site: BookMooch is a community for exchanging used books. BookMooch lets you give away books you no longer need in exchange for books you really want. All the API calls support XML output...",
+    "Category": "Other",
+    "Date": "03.12.2008"
+  },
+  {
+    "APIname": "Gruvr",
+    "Description": "Gruvr offers tons of geocoded concert data, with about 170K upcoming shows for 45K bands currently listed. You can ask for upcoming concerts by location or by band.  The results can be returned as...",
+    "Category": "Music",
+    "Date": "12.31.2007"
+  },
+  {
+    "APIname": "Friendster",
+    "Description": "From their site:  The Friendster Developer Platform consists of a set of APIs to Friendster data and seamless integration points within the Friendster web site to create compelling widget...",
+    "Category": "Social",
+    "Date": "10.25.2007"
+  },
+  {
+    "APIname": "Hi5",
+    "Description": "From their site: hi5 is a global brand for young people, where over 50 million members have established accounts and personal pages. We have a full SOAP API, and even a few REST endpoints.",
+    "Category": "Social",
+    "Date": "10.12.2007"
+  },
+  {
+    "APIname": "ZoomInfo",
+    "Description": "Integrate ZoomInfo's just-verified B2B data and advanced search tools directly into your application. Put profiles of 135 million business people and 8.5 million businesses right at your users...",
+    "Category": "Data-as-a-Service",
+    "Date": "09.27.2007"
+  },
+  {
+    "APIname": "AMEE",
+    "Description": "AMEE is a platform for greenhouse gas calculation, with access to emissions factors, calculation algorithms, and storage for data history. Our science team take the published methodologies from the...",
+    "Category": "Science",
+    "Date": "09.21.2007"
+  },
+  {
+    "APIname": "Ipernity",
+    "Description": "The ipernity API allows creating applications that can do whatever you see on the ipernity website and even more. For example: import new documents, tag a photo, create an album, search in your...",
+    "Category": "Media",
+    "Date": "08.27.2007"
+  },
+  {
+    "APIname": "Amazon Flexible Payments Service",
+    "Description": "From their site: The first payments service designed from the ground up specifically for developers. The set of web services APIs allows the movement of money between any two entities, humans or...",
+    "Category": "Payments",
+    "Date": "08.03.2007"
+  },
+  {
+    "APIname": "Yahoo Search Marketing",
+    "Description": "From their site: The Yahoo! Search Marketing API provides programmatic access to the same functionality exposed visually in the web-based interface. You can create and manage campaigns, pull reports...",
+    "Category": "Advertising",
+    "Date": "06.04.2007"
+  },
+  {
+    "APIname": "Urban Mapping Mapfluence",
+    "Description": "Urban Mapping's Mapfluence product is a platform that helps developers and enterprise markets create geospatial applications using the data and technological services that Urban Mapping provides...",
+    "Category": "Mapping",
+    "Date": "05.22.2007"
+  },
+  {
+    "APIname": "Cicero",
+    "Description": "Cicero is a web service API that geocodes addresses and matches them to legislative districts and elected official contact information. Cicero easily integrates into an organization's existing...",
+    "Category": "Politics",
+    "Date": "04.10.2007"
+  },
+  {
+    "APIname": "SNOCAP",
+    "Description": "From their site: Through the SNOCAP proprietary Digital Registry, artists and labels are empowered to easily promote and sell their music through digital retailers or through their own unique artist...",
+    "Category": "Music",
+    "Date": "04.03.2007"
+  },
+  {
+    "APIname": "Userplane",
+    "Description": "From their site: Userplane is the premier provider of communication software for online communities. Five hosted web apps comprise the application suite � each adding core, must-have features to...",
+    "Category": "Social",
+    "Date": "12.01.2006"
+  },
+  {
+    "APIname": "Windows Live Gadgets",
+    "Description": "",
+    "Category": "Widgets",
+    "Date": "11.04.2006"
+  },
+  {
+    "APIname": "Follow The Money",
+    "Description": "From their site: Money in state politics plays a pivotal role in shaping public policy in individual states and across the nation. The nonpartisan Institute on Money in State Politics tracks...",
+    "Category": "Government",
+    "Date": "11.02.2006"
+  },
+  {
+    "APIname": "Clickatell HTTP",
+    "Description": "The Clickatell HTTP API offers simple, versatile internet connectivity to the Clickatell service and is one of seven SMS APIs offered.  It allows you to send SMS messages around the world to your...",
+    "Category": "Messaging",
+    "Date": "07.22.2006"
+  },
+  
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Yahoo Messenger",
+    "Description": "From their site: A Yahoo! Messenger Plug-in is an HTML page that runs inside Yahoo! Messenger. Developers create plug-ins using the Yahoo Messenger Plug-in SDK�a toolkit of JavaScript and C++ APIs....",
+    "Category": "Chat",
+    "Date": "06.21.2006"
+  },
+  {
+    "APIname": "Naver",
+    "Description": "Naver is the most popular search portal in South Korea. It also provides a news service, an e-mail service, an academic thesis search service, and a children's portal.",
+    "Category": "Search",
+    "Date": "05.28.2006"
+  },
+  {
+    "APIname": "30 Boxes",
+    "Description": "30 Boxes is a calendaring service that allows you to organize your life, then share it with friends. You can also keep track of friends' calendars. 30 Boxes interfaces with Flickr, Livejournal,...",
+    "Category": "Calendars",
+    "Date": "02.24.2006"
+  },
+  {
+    "APIname": "Backpack",
+    "Description": "Backpack is a web-based personal information manager small business. The application supports user-created pages  and a calendar. Features of the user-created pages include to-do lists, inline photo...",
+    "Category": "Office",
+    "Date": "02.08.2006"
+  },
+  {
+    "APIname": "Yahoo Ads",
+    "Description": "From their site: Advertiser Web Services enables advertisers to develop software which interacts directly with Yahoo! Search Marketing campaign management systems. Advertisers can use XML based...",
+    "Category": "Advertising",
+    "Date": "11.19.2005"
+  },
+  {
+    "APIname": "Buzznet",
+    "Description": "Buzznet support 2 APIs: Buzznet API for core services + Blogger API for blog management (which is a customized version of the Blogger API).",
+    "Category": "Photos",
+    "Date": "10.30.2005"
+  },
+  {
+    "APIname": "Gigablast",
+    "Description": "The Gigablast API lets you add web search capabilities to your website, customized search product, or meta search engine.",
+    "Category": "Search",
+    "Date": "09.09.2005"
+  },
+  {
+    "APIname": "Amazon Queue Service",
+    "Description": "Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly scalable, hosted queue for storing messages as they travel between computers. By using Amazon SQS, developers can simply move data...",
+    "Category": "Messaging",
+    "Date": "09.06.2005"
+  },
+  {
+    "APIname": "TypePad",
+    "Description": "The TypePad Developer Program is your gateway to the TypePad Cloud Platform. Build your own social applications with TypePad�s data and social graph objects. Grow and scale social communities with...",
+    "Category": "Blogging",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "NCBI Entrez",
+    "Description": "The NCBI Entrez Utilities Web Service enables developers to access Entrez Utilities via the Simple Object Access Protocol (SOAP). The Entrez database contains bioinformatics data.",
+    "Category": "Medical",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "ThreatCrowd",
+    "Description": "The ThreatCrowd REST API allows developers to access and integrate the functionality of ThreatCrowd with other applications. Some example API methods include identifying related infrastructure and...",
+    "Category": "Security",
+    "Date": "10.12.2015"
+  },
+  {
+    "APIname": "Webhose.io",
+    "Description": "Webhose.io provides on-demand access to structured web data that anyone can consume. We empower you to build, launch, and scale big data operations - whether you�re a budding entrepreneur working out...",
+    "Category": "Search",
+    "Date": "11.17.2014"
+  },
+  {
+    "APIname": "ipinfo.io",
+    "Description": "Ipinfo.io is a free IP information web service providing geolocation, hostname, organization and other data types. The ipinfo.io API returns a JSON response containing data fields describing the...",
+    "Category": "Reference",
+    "Date": "11.04.2013"
+  },
+  {
+    "APIname": "Coinkite",
+    "Description": "Coinkite is a bitcoin service that provides an exchange and bank for bitcoin and other crypto-currency use. Coinkite also both online banking and a debit card with which to transact in bitcoins...",
+    "Category": "Financial",
+    "Date": "10.27.2013"
+  },
+  {
+    "APIname": "Daybreak Game Company Census",
+    "Description": "Daybreak Games (DGC) is a leader in massively multiplayer online games. Some of it's most popular titles include EverQuest, EverQuest II, PlanetSide 2, Planetside 2, H1Z1, Landmark, and DC...",
+    "Category": "Games",
+    "Date": "12.05.2012"
+  },
+  {
+    "APIname": "Coinbase",
+    "Description": "Coinbase is an electronic service and \"wallet\" for bitcoins and digital currency. Users can transfer currency, pay merchants, and make other payments instantly.\nThe Coinbase API allows...",
+    "Category": "Financial",
+    "Date": "08.22.2012"
+  },
+  {
+    "APIname": "Pushover",
+    "Description": "Pushover is a service for sending real-time notifications to Android and iOS devices. A simple REST API allows users to send messages to Pushover from their applications. Those messages are then sent...",
+    "Category": "Messaging",
+    "Date": "07.10.2012"
+  },
+  {
+    "APIname": "Impossible Software",
+    "Description": "Impossible Software is a video advertising solutions provider. Their products enable advertisers and content producers to customize videos on demand, in real time, tens of thousands of times per hour...",
+    "Category": "Video",
+    "Date": "07.02.2012"
+  },
+  {
+    "APIname": "Mandrill",
+    "Description": "Mandrill is an email application and email template service hosted by MailChimp. The Mandrill API allows developers to access and integrate the functionality of Mandrill with other applications and...",
+    "Category": "Email",
+    "Date": "04.25.2012"
+  },
+  {
+    "APIname": "Readmill",
+    "Description": "Readmill is an online and mobile platform for readers to share information about what eBooks they are reading, allowing them to highlight and discuss sections of eBooks with other users. \nThe...",
+    "Category": "Social",
+    "Date": "03.05.2012"
+  },
+  {
+    "APIname": "LyricFind",
+    "Description": "LyricFind provides a legal music lyrics service. LyricFind has licensing from over 2,000 music publishers, including the four majors – EMI Music Publishing, Universal Music Publishing Group, Warner...",
+    "Category": "Music",
+    "Date": "01.26.2012"
+  },
+  {
+    "APIname": "Trello",
+    "Description": "Trello is an online project management and collaboration platform. Users can manage their projects on Trello boards that display the various aspects of their projects, such as what has been done and...",
+    "Category": "Project Management",
+    "Date": "01.19.2012"
+  },
+  {
+    "APIname": "Blekko",
+    "Description": "blekko is a search engine that sorts out spam, content farms and malware by crawling a subset of about 3 billion pages. To improve search results, blekko uses a tool called a slashtag that organizes...",
+    "Category": "Search",
+    "Date": "01.09.2012"
+  },
+  {
+    "APIname": "Bol.com Open",
+    "Description": "Bol.com is the biggest online retailer from the Netherlands. Bol.com sells a variety of products, including DVDs, games, music, electronics, computers, and books.\nThe Bol.com Open API allows...",
+    "Category": "eCommerce",
+    "Date": "01.09.2012"
+  },
+  {
+    "APIname": "Buffer",
+    "Description": "Buffer is a service that allows users to manage and schedule their tweets throughout the day. Users add tweets to their \"Buffer,\" and Buffer schedules them to go out regularly throughout...",
+    "Category": "Social",
+    "Date": "12.21.2011"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Library of Congress Prints & Photographs",
+    "Description": "The service is part of a re-release by the Library of Congress of its Print & Photographs Online Catalog. It provides access to a rich image collection for incorporation into other applications....",
+    "Category": "Media",
+    "Date": "12.16.2011"
+  },
+  {
+    "APIname": "Zomato Foodie Index",
+    "Description": "Zomato is a restaurant, food and lifestyle guide in India. It offers API which lets users access most updated content available on Zomato in real time directly from within their apps. Users can get...",
+    "Category": "Food",
+    "Date": "09.16.2011"
+  },
+  {
+    "APIname": "Careerjet",
+    "Description": "Careerjet is a job search engine that pulls job postings from company and organization websites in a variety of industries and locations. Users searching for employment may also post their resume on...",
+    "Category": "Jobs",
+    "Date": "08.07.2011"
+  },
+  {
+    "APIname": "PDXCouncilConnect",
+    "Description": "PDXCouncilConnect is a service of the Portland, Oregon, eGovPDX group. The city technology department makes the API available to access city council agenda and voting information. The...",
+    "Category": "Government",
+    "Date": "08.01.2011"
+  },
+  {
+    "APIname": "IP2Location",
+    "Description": "IP2Location is an API service for doing IP to Location lookups to obtain City, Country, Lattitude, Longitude and country code data. It is a simple API with one RESTful call returning data in CSV...",
+    "Category": "Mapping",
+    "Date": "06.28.2011"
+  },
+  {
+    "APIname": "Gravatar",
+    "Description": "Gravatar is a web service that lets users create profiles and avatars called Gravatars. A Gravatar is an image that follows you from site to site appearing beside your name when you do things like...",
+    "Category": "Social",
+    "Date": "04.29.2011"
+  },
+  {
+    "APIname": "Brewery DB",
+    "Description": "BreweryDB is a fully moderated, open library of breweries and beers from all around the world.  The library is updated by our users.  For breweries, we keep track of information such as location,...",
+    "Category": "Reference",
+    "Date": "04.13.2011"
+  },
+  {
+    "APIname": "Readability",
+    "Description": "Readability is a subscription service that lets users bookmark articles/webpages and read them later in a comfortable reading view. Readability also supports the writers and publishers of content/...",
+    "Category": "Bookmarks",
+    "Date": "04.07.2011"
+  },
+  {
+    "APIname": "trakt.tv",
+    "Description": "Trakt helps keep a record of what TV shows and movies a user is watching. Based on user favorites, trakt recommends additional shows and movies. The Trakt API lets users integrate the trakt service...",
+    "Category": "Recommendations",
+    "Date": "03.09.2011"
+  },
+  {
+    "APIname": "ChannelAdvisor",
+    "Description": "Provides access to the ChannelAdvisor platform, which provides cart service, inventory, listings, orders, marketplace ads, shipping, and storage services.",
+    "Category": "eCommerce",
+    "Date": "01.11.2011"
+  },
+  {
+    "APIname": "AddThis Services",
+    "Description": "AddThis is a free way to boost traffic back to your site by making it easier for visitors to share your content. With the AddThis Services API, combined with the \"oExchange sharing endpoints,...",
+    "Category": "Social",
+    "Date": "12.27.2010"
+  },
+  {
+    "APIname": "Dribbble",
+    "Description": "Dribbble API provides access to the webdesign showcases on dribbble.com. You can access individual shots, players, comments, and more details.\nNote: As of Dec. 2010, no API key is required, but...",
+    "Category": "Other",
+    "Date": "12.15.2010"
+  },
+  {
+    "APIname": "Geoloqi",
+    "Description": "Geoloqi is a platform for private, real-time mobile location. The service stores locations and allows you to create Geonotes, receive proximal notification and optionally share real-time GPS maps...",
+    "Category": "Mapping",
+    "Date": "12.14.2010"
+  },
+  {
+    "APIname": "Kynetx",
+    "Description": "Kynetx is an event-driven application platform that helps you build context-aware apps in the cloud. Kynetx apps look for events and user context (like geo-location, session behavior, weather and...",
+    "Category": "Real Time",
+    "Date": "12.13.2010"
+  },
+  {
+    "APIname": "Travelport",
+    "Description": "One API... A world of travel content.\nTravelport Universal API is the global distribution system (GDS) industry�s first truly universal API, giving you access to a world of content and...",
+    "Category": "Travel",
+    "Date": "09.16.2010"
+  },
+  {
+    "APIname": "QuickFuse",
+    "Description": "QuickFuse is a unique voice application editor and platform that�s controlled from a web browser. Voice applications built on the QuickFuse platform are assembled by \"snapping together\"...",
+    "Category": "Telephony",
+    "Date": "08.30.2010"
+  },
+  {
+    "APIname": "GreatSchools",
+    "Description": "Find nearby U.S. schools by zip code, city or full address. Once you find a school, see information about each school, including address. Dig deeper and retrieve reviews from users or students'...",
+    "Category": "Education",
+    "Date": "08.10.2010"
+  },
+  {
+    "APIname": "Yolink",
+    "Description": "Yolink quickly scans search results, e-books, online documents, and web sites using key words, quotes, and word relationships to find what users are looking for. The API provides access to the cloud...",
+    "Category": "Search",
+    "Date": "07.11.2010"
+  },
+  {
+    "APIname": "Yahoo PlaceFinder",
+    "Description": "The Yahoo PlaceFinder API gives developers multi-language global geocoding of named places.\nPlaceFinder supports building-level address recognition in over 75 countries, and...",
+    "Category": "Mapping",
+    "Date": "06.22.2010"
+  },
+  {
+    "APIname": "Yahoo Fantasy Sports",
+    "Description": "Yahoo Fantasy Sports is the world's largest fantasy sports provider, allowing users to compete against each other using statistics from real-world competitions. The Yahoo Fantasy Sports API...",
+    "Category": "Sports",
+    "Date": "06.02.2010"
+  },
+  {
+    "APIname": "eBay Product Services",
+    "Description": "Parts Compatibility is an eBay feature that uses structured data to associate compatible assemblies with parts listed on eBay. It is meant to improve search relevancy allow item titles and...",
+    "Category": "eCommerce",
+    "Date": "04.08.2010"
+  },
+  {
+    "APIname": "RealtyBaron Answers",
+    "Description": "RealtyBaron's Answers API is a free service that enables websites or mobile apps to add a white-label Question and Answer service, similar to Trulia Voices or Zillow's Home Q&A, with...",
+    "Category": "Real Estate",
+    "Date": "03.29.2010"
+  },
+  {
+    "APIname": "MotorsportReg.com",
+    "Description": "MotorsportReg.com is a membership management and event registration service for motorsport driving and social events organized by clubs, racetracks and sanctioning bodies around the world. We make it...",
+    "Category": "Sports",
+    "Date": "03.12.2010"
+  },
+  {
+    "APIname": "billomat",
+    "Description": "Billomat is a web based billing service. It allows users to create offers and invoices and manage customers. The billomat API uses a RESTful interface that allows access to the data in a user's...",
+    "Category": "Financial",
+    "Date": "02.16.2010"
+  },
+  {
+    "APIname": "ImageShack",
+    "Description": "ImageShack offers image hosting, free photo sharing and video sharing. The ImageShack platform allows integration of ImageShack's services into any website or software via the use of its XML API.",
+    "Category": "Media",
+    "Date": "02.14.2010"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Target",
+    "Description": "targetAPI is a semantic targeting solution and predictive content personalization technology. It predicts a user's interests based on user�s �digital footprint� on the Internet: web pages...",
+    "Category": "Recommendations",
+    "Date": "02.02.2010"
+  },
+  {
+    "APIname": "Superfeedr",
+    "Description": "The PubSubHubbub API will allow users to receive notifications from SuperFeeder when new entries in feeds to which they subscribed are identified. Superfeedr allows users to parse feeds and receive...",
+    "Category": "Feeds",
+    "Date": "01.02.2010"
+  },
+  {
+    "APIname": "Mappy",
+    "Description": "The Mappy AJAX API provides comprehensive mapping and routing functionalities to incorporate on Internet and mobile sites. Extensive coverage of France and Spain. With geocoding and routing. Also...",
+    "Category": "Mapping",
+    "Date": "12.04.2009"
+  },
+  {
+    "APIname": "Google Sites",
+    "Description": "The Google Sites Data API lets developers access, publish, and modify content within a Google Site. The API is available to both Google Account and Google Apps users.\nHere are some of the things you...",
+    "Category": "Tools",
+    "Date": "11.07.2009"
+  },
+  {
+    "APIname": "Enthusem",
+    "Description": "Enthusem specializes in offline to online marketing. The Enthusem API enables any web application to send personal, one at a time printed mail that drives recipients to an online experience using...",
+    "Category": "Marketing",
+    "Date": "10.31.2009"
+  },
+  {
+    "APIname": "Facebook Ads",
+    "Description": "Provides methods to add, edit and manage advertising campaigns running within Facebook. Your ad management application can work with keywords, ad groups and even generate reports.",
+    "Category": "Advertising",
+    "Date": "10.31.2009"
+  },
+  {
+    "APIname": "Pocket",
+    "Description": "Previously offered under the name Read It Later, Pocket is a service that allows users to save articles, videos and more to read or use later. The Pocket API allows for applications that interact...",
+    "Category": "Bookmarks",
+    "Date": "08.08.2009"
+  },
+  {
+    "APIname": "Layar",
+    "Description": "Layar is augmented reality application on your mobile phone which shows what is around you by displaying real time digital information on top of reality though the camera of your mobile phone....",
+    "Category": "Other",
+    "Date": "07.12.2009"
+  },
+  {
+    "APIname": "Amazon CloudWatch",
+    "Description": "Amazon CloudWatch is a web service that provides visibility into your cloud assets. Amazon CloudWatch provides the data you need to make informed decisions. It is designed to provide comprehensive...",
+    "Category": "Platform-as-a-Service",
+    "Date": "06.16.2009"
+  },
+  {
+    "APIname": "Wolfram Alpha",
+    "Description": "Wolfram|Alpha is a \"computational knowledge engine\" whose long-term goal is \"to make all systematic knowledge immediately computable and accessible to everyone. We aim to collect and...",
+    "Category": "Reference",
+    "Date": "05.16.2009"
+  },
+  {
+    "APIname": "Sensebot",
+    "Description": "Sensebot Semantic Cloud API features extraction of semantic concepts from a page; creating �semantic cloud� of concepts describing a group of documents; generating a multi-document summary of a...",
+    "Category": "Search",
+    "Date": "04.09.2009"
+  },
+  {
+    "APIname": "Norway Weather",
+    "Description": "met.no is the joint online weather service from the Norwegian Meteorological Institute (met.no) and the Norwegian Broadcasting Corporation (NRK). met.no offers weather forecasts in English for more...",
+    "Category": "Weather",
+    "Date": "03.27.2009"
+  },
+  {
+    "APIname": "Microsoft Translator",
+    "Description": "The Microsoft Translator AJAX API provides automated translation of web pages and portions of web pages into different languages.",
+    "Category": "Translation",
+    "Date": "03.22.2009"
+  },
+  {
+    "APIname": "Ergast",
+    "Description": "The Ergast Motor Racing Data API provides a historical record of motor racing data for non-commercial purposes. The API provides data for the Formula 1 and Formula E series, from the start of the...",
+    "Category": "Sports",
+    "Date": "03.17.2009"
+  },
+  {
+    "APIname": "New York Times Campaign Finance",
+    "Description": "The New York Times Campaign Finance API lets you retrieve contribution and expenditure data from United States Federal Election Commission filings. The NY Times team have taken public campaign...",
+    "Category": "Government",
+    "Date": "10.14.2008"
+  },
+  {
+    "APIname": "ShopStyle",
+    "Description": "The ShopStyle API allows client applications to retrieve the underlying data for all the basic elements of the ShopStyle website, including products, brands, retailers, and categories. \nFor ease...",
+    "Category": "eCommerce",
+    "Date": "10.06.2008"
+  },
+  {
+    "APIname": "Swivel",
+    "Description": "The Swivel API web service provides full create, read, write and delete access to charts in Swivel Business.\nUpload and update the charts. Create data visualizations of information your enterprise...",
+    "Category": "Financial",
+    "Date": "07.31.2008"
+  },
+  {
+    "APIname": "PostalMethods",
+    "Description": "PostalMethods provides a postal gateway service (SaaS) for sending letters and postcards. Use our flexible and well documented SOAP interface to send mail directly from your business applications....",
+    "Category": "Messaging",
+    "Date": "07.03.2008"
+  },
+  {
+    "APIname": "Ustream.TV",
+    "Description": "Access Ustream.TV's database and allow broadcasters and end-users to share, show, or browse our videos. Programmatically search broadcasters for a specific name, retrieve a popular show, and...",
+    "Category": "Video",
+    "Date": "04.13.2008"
+  },
+  {
+    "APIname": "Scribd iPaper",
+    "Description": "From their site: The iPaper Javascript API allows you to control how your documents are displayed when embedded in your webpage. Similar to the Google Maps API, it is a simple set of Javascript...",
+    "Category": "Office",
+    "Date": "03.27.2008"
+  },
+  {
+    "APIname": "Geograph",
+    "Description": "From their site: Allows third party developers to create applications using data sourced from Geograph. The Geograph British Isles project aims to collect geographically representative photographs...",
+    "Category": "Photos",
+    "Date": "02.24.2008"
+  },
+  {
+    "APIname": "SimpleAPI",
+    "Description": "Japanese web service for creating web site thumbnail images.",
+    "Category": "Photos",
+    "Date": "02.14.2008"
+  },
+  {
+    "APIname": "LibraryThing",
+    "Description": "From their site: Three APIs available: (1) thingISBN takes an ISBN and returns a list of ISBNs from the same \"work\" (ie., other editions and translations); (2) thingTitle takes a title and...",
+    "Category": "Reference",
+    "Date": "02.09.2008"
+  },
+  {
+    "APIname": "Seesmic",
+    "Description": "Public API is in beta now. Use the API to view who a user follows, view their list of videos, get videos for a timeline, and more.",
+    "Category": "Video",
+    "Date": "01.29.2008"
+  },
+  {
+    "APIname": "Windows Live ID Web Authentication",
+    "Description": "From their site: Windows Live ID Web Authentication enables you to authenticate users on your Web site and offer personalized access to your site�s content to any of the millions of registered...",
+    "Category": "Security",
+    "Date": "01.13.2008"
+  },
+ 
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Ordnance Survey OpenSpace",
+    "Description": "API documentation is publically available from the OpenSpace web site. From their site: OS OpenSpace is a free Ordnance Survey service that allows you to embed Ordnance Survey maps covering England,...",
+    "Category": "Mapping",
+    "Date": "12.18.2007"
+  },
+  {
+    "APIname": "MapLight",
+    "Description": "MapLight looks at the connection between campaign donations and legislative votes in an effort to reveal money's influence on politics. \nMapLight performs research on supporting and opposing...",
+    "Category": "Government",
+    "Date": "11.04.2007"
+  },
+  {
+    "APIname": "Yandex",
+    "Description": "XML API for Russian search engine.",
+    "Category": "Search",
+    "Date": "09.16.2007"
+  },
+  {
+    "APIname": "Kuler",
+    "Description": "From their site: kuler is all about color and inspiration: explore, create, and share color themes.",
+    "Category": "Other",
+    "Date": "09.01.2007"
+  },
+  {
+    "APIname": "We Feel Fine",
+    "Description": "From their site: Since August 2005, We Feel Fine has been harvesting human feelings from a large number of weblogs. Every few minutes, the system searches the world's newly posted blog entries...",
+    "Category": "Other",
+    "Date": "08.05.2007"
+  },
+  {
+    "APIname": "Google Safe Browsing",
+    "Description": "The Google Safe Browsing API allows developers to access and integrate the functionality of Google Safe Browsing with other applications. The Google Safe Browsing version 3 API allows applications to...",
+    "Category": "Security",
+    "Date": "06.29.2007"
+  },
+  {
+    "APIname": "Garmin MotionBased",
+    "Description": "From their site: MotionBased is a web application that translates GPS data into functional analysis and online mapping for endurance and outdoor athletes. Coming Fall, 2007. Currently the Web...",
+    "Category": "Sports",
+    "Date": "06.05.2007"
+  },
+  {
+    "APIname": "Windows Live Data",
+    "Description": "From their site: Windows Live Data provides a mechanism by which developers can ask Windows Live users for permission to access the user's Windows Live services and data on the user's...",
+    "Category": "Security",
+    "Date": "05.01.2007"
+  },
+  {
+    "APIname": "Windows Live Contacts",
+    "Description": "The Windows Live Contacts API is an HTTP-based service that enables developers to programmatically submit queries to and retrieve results from the Windows Live Contacts Address Book database.",
+    "Category": "Personal Information Management",
+    "Date": "05.01.2007"
+  },
+  {
+    "APIname": "Blinkx",
+    "Description": "NOTE: No public docs until you register. Use the blinkx search capabilities on your site. The blinkx repository is vast and has speech-to-text and visual analysis features.",
+    "Category": "Video",
+    "Date": "04.26.2007"
+  },
+  {
+    "APIname": "NetSuite",
+    "Description": "From their site: Founded in 1998, NetSuite, Inc. is the leading provider of integrated business application software for small and midsize businesses. With thousands of customers globally using...",
+    "Category": "Enterprise",
+    "Date": "04.01.2007"
+  },
+  {
+    "APIname": "Snipshot",
+    "Description": "Snipshot Services is the way for outside sites to hook into Snipshot. As a site developer, you can use Services to give your users the power to edit their pictures online with Snipshot.",
+    "Category": "Photos",
+    "Date": "12.13.2006"
+  },
+  {
+    "APIname": "GeoIQ",
+    "Description": "From their site: GeoIQ is a dynamic geospatial analysis and heat mapping technology that delivers high resolution raster analysis through a web browser. Developers can use GeoIQ to add geographic...",
+    "Category": "Mapping",
+    "Date": "11.15.2006"
+  },
+  {
+    "APIname": "Windows Sidebar Gadgets",
+    "Description": "For Windows Vista sidebar.",
+    "Category": "Widgets",
+    "Date": "11.05.2006"
+  },
+  {
+    "APIname": "PhishTank",
+    "Description": "From their site: PhishTank is a free community site where anyone can submit, verify, track and share phishing data.",
+    "Category": "Security",
+    "Date": "11.01.2006"
+  },
+  {
+    "APIname": "Blinksale",
+    "Description": "Blinksale is a web application that allows professionals and small businesses to send invoices on the Web. Users can create invoices from a template or choose to customize the design. The API allows...",
+    "Category": "Financial",
+    "Date": "11.01.2006"
+  },
+  {
+    "APIname": "Yahoo BBauth",
+    "Description": "From their site: You build great web applications. We have millions of users who store their data on Yahoo!. Browser-Based Authentication (BBAuth) makes it possible for your applications to use that...",
+    "Category": "Security",
+    "Date": "10.01.2006"
+  },
+  {
+    "APIname": "Microsoft adCenter",
+    "Description": "From their site: The Microsoft adCenter application programming interface (API) enables you to create applications that: Create and manage adCenter campaigns, orders, keywords, and ads. Obtain the...",
+    "Category": "Advertising",
+    "Date": "09.25.2006"
+  },
+  {
+    "APIname": "Akismet",
+    "Description": "From their site: Akismet is basically a big machine that sucks up all the data it possibly can, looks for patterns, and learns from its mistakes. Thus far it has been highly effective at stopping...",
+    "Category": "Blogging",
+    "Date": "09.14.2006"
+  },
+  {
+    "APIname": "Skyhook Wireless",
+    "Description": "From their site: The Skyhook Wi-Fi Positioning System APIs let you quickly location-enable your application, service or device and reach an addressable market of over 100 million Wi-Fi enabled...",
+    "Category": "Other",
+    "Date": "07.29.2006"
+  },
+  {
+    "APIname": "EditGrid",
+    "Description": "From their site: EditGrid is an online spreadsheet service with real-time-update and extensive collaboration features. \nEditGrid offers two APIs. The Web API is used for controlling and manipulating...",
+    "Category": "Office",
+    "Date": "07.29.2006"
+  },
+  {
+    "APIname": "Weblogs",
+    "Description": "From their site: The Weblogs.com ping service is used to automatically inform VeriSign whenever you update content on your site. The service receives notification (a \"ping\") from your site...",
+    "Category": "Blogging",
+    "Date": "06.23.2006"
+  },
+  {
+    "APIname": "ISBN db",
+    "Description": "From their site: ISBNdb.com's remote access application programming interface (API) is designed to allow other websites and standalone applications use the vast collection of data collected by...",
+    "Category": "Reference",
+    "Date": "03.01.2006"
+  },
+  {
+    "APIname": "ZeeMaps",
+    "Description": "ZeeMaps provides an easy-to-use mechanism for embedding Google Maps\nin your own website.They also provide an International Geocoding service.",
+    "Category": "Mapping",
+    "Date": "02.23.2006"
+  },
+  {
+    "APIname": "SplogSpot",
+    "Description": "From their site: The SplogSpot API enables you to integrate the power of SplogSpot database into your custom application. It provides a simple interface that you can query, results being returned in...",
+    "Category": "Search",
+    "Date": "01.24.2006"
+  },
+
+  {
+    "APIname": "APIname",
+    "Description": "Description",
+    "Category": "Category",
+    "Date": "Submitted"
+  },
+  {
+    "APIname": "Syndic8",
+    "Description": "Syndic8 aggregates RSS and atom news feeds on a variety of topics. Syndic8 supports feed tagging to help users find blogs similar to those they are already subscribed to.",
+    "Category": "Feeds",
+    "Date": "11.03.2005"
+  },
+  {
+    "APIname": "Digital Podcast",
+    "Description": "The Digital Podcast Search Service allows you to access Digital Podcast's content and services in your favorite programming languages. This means you can now build Digital Podcast directly into...",
+    "Category": "Music",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "ESV Bible Lookup",
+    "Description": "From their site: The English Standard Version (ESV) Bible is a new, essentially literal Bible translation that combines word-for-word precision and accuracy with literary excellence, beauty, and...",
+    "Category": "Reference",
+    "Date": "09.04.2005"
+  },
+  {
+    "APIname": "Booking.com Content",
+    "Description": "The Booking.com Content API allows developers to build and maintain multiple listings on Booking.com. This API includes functions for uploading property photos and information about facilities and...",
+    "Category": "Booking",
+    "Date": "12.08.2016"
+  },
+  {
+    "APIname": "Looker",
+    "Description": "The Looker RESTful API integrates data analytics for business services via reports and dashboards. It is available with HTTP requests and JSON responses, API Key to authenticate, and SDK to interact...",
+    "Category": "Analytics",
+    "Date": "07.08.2016"
+  },
+  {
+    "APIname": "WinSMS",
+    "Description": "The WinSMS API provides tools for developers that allow the capability to easily integrate SMS messaging into existing database applications, custom software and web sites. This WinSMS API is useful...",
+    "Category": "Messaging",
+    "Date": "08.20.2015"
+  },
+  {
+    "APIname": "Travel Portal",
+    "Description": "The Travel Portal API provides programmatic access to functions that allow customers to book hotels, flights, cars, and tours from the developer's websites. Travel Portal allows users to make...",
+    "Category": "Travel",
+    "Date": "07.22.2015"
+  },
+  {
+    "APIname": "Telegram Bot",
+    "Description": "Telegram, the cloud-based service that offers messaging services to share text, photos, and videos, now offers the Telegram Bot API. This service allows to integrate bots with AI applications in mind...",
+    "Category": "Bots",
+    "Date": "06.25.2015"
+  },
+  {
+    "APIname": "Google Maps Geolocation",
+    "Description": "The Google Maps Geolocation API provides developers with tools and documentation for incorporating geolocation with mobile and WiFi technologies. The Geolocation API specifically returns a location...",
+    "Category": "Mapping",
+    "Date": "06.23.2015"
+  },
+  {
+    "APIname": "Pinterest",
+    "Description": "This API is RESTful, and it allows developers to use the Pinterest Pin features by integrating the API into their applications. Log in information is required for viewing the API documentation.",
+    "Category": "Images",
+    "Date": "05.04.2015"
+  },
+  {
+    "APIname": "Chartie",
+    "Description": "Chartie is a free web API that mines the relevant trend patterns from your signal.\nThanks to our technololgy, Chartie's output identifies the relevant trend in the input data.\nChartie...",
+    "Category": "Analytics",
+    "Date": "02.09.2015"
+  },
+  {
+    "APIname": "Information Machine",
+    "Description": "Our API can automatically & passively collect users� item level purchase data from online and loyalty card purchases at most healthcare, grocery, takeout and major stores (Amazon, Target, Walmart...",
+    "Category": "eCommerce",
+    "Date": "12.23.2014"
+  },
+  {
+    "APIname": "Spotify Web",
+    "Description": "The Spotify Web API allows developers to use their application to get data from the Spotify music catalog. The endpoints results in JSON format providing information such as artists, albums, and...",
+    "Category": "Music",
+    "Date": "09.22.2014"
+  },
+  {
+    "APIname": "Bing Search",
+    "Description": "The Bing Search API enables developers to embed search results in applications or websites using XML or JSON. It allows developers to add search functionality to a website, create unique consumer or...",
+    "Category": "Search",
+    "Date": "09.14.2014"
+  },
+  {
+    "APIname": "Walgreens Balance Rewards",
+    "Description": "The Balance� Rewards API enables pre-qualified partners to connect into Walgreens to share individual member health and wellness information to be eligible to receive Balance Rewards points for...",
+    "Category": "Health",
+    "Date": "10.06.2014"
+  },
+  {
+    "APIname": "Udacity Course Catalog",
+    "Description": "Udacity provides online programming courses to help people advance their tech careers. Courses are offered on demand and allow students to work at their own pace. Courses are taught by employees of...",
+    "Category": "Education",
+    "Date": "08.12.2014"
+  },
+  {
+    "APIname": "Wahoo Fitness",
+    "Description": "In a time where exercise activity is connected to our mobile phones, Wahoo fitness offers an API so developers can create useful fitness software in iPhone devices with the main goal to monitor...",
+    "Category": "Fitness",
+    "Date": "07.10.2014"
+  },
+  {
+    "APIname": "iHealth",
+    "Description": "iHealth provides wireless scales, blood pressure monitors, and other mobile monitoring devices, along with an app that allows patients to track their own health data, including weight, BMI, bone mass...",
+    "Category": "Medical",
+    "Date": "03.09.2014"
+  },
+  {
+    "APIname": "ElasticSearch",
+    "Description": "ElasticSearch is a data analysis, monitoring, and search platform. ElasticSearch provides multiple products for monitoring, searching, and organizing data.\nThe ElasticSearch API allows developers...",
+    "Category": "Enterprise",
+    "Date": "01.28.2014"
+  },
+  {
+    "APIname": "Allmyles",
+    "Description": "Allmyles provides bookable content integration for travel services. Developers can use the Allmyles API to integrate services for booking flights, hotels and car rentals. The services are RESTful and...",
+    "Category": "Travel",
+    "Date": "12.02.2013"
+  },
+  {
+    "APIname": "Scribble Maps",
+    "Description": "Scribble Maps is a map drawing and sharing platform. Scribble Maps allows users to draw, save, and share maps. \nThe Scribble Maps API allows developers to access and integrate the functionality of...",
+    "Category": "Mapping",
+    "Date": "11.27.2013"
+  },
+  {
+    "APIname": "feedly",
+    "Description": "feedly is an RSS, blog-feed reader. feedly allows users to aggregate and track all of the blogs and RSS feeds they want to follow in one application (for web, mobile, and tablet). \nThe feedly API...",
+    "Category": "Blogging",
+    "Date": "09.18.2013"
+  },
+  {
+    "APIname": "DatumBox",
+    "Description": "Datumbox offers a Machine Learning platform composed of 14 classifiers and Natural Language processing functions. Functions include sentiment analysis, topic classification, readability assessment,...",
+    "Category": "Tools",
+    "Date": "09.03.2013"
+  },
+  {
+    "APIname": "Bter",
+    "Description": "Bter is a Bitcoin Exchange platform where users can buy, sell, and trade bitcoins and other crypto-currencies. The Bter API can returns the ticker for a selected currency, the market depth including...",
+    "Category": "Financial",
+    "Date": "05.18.2013"
+  },
+  {
+    "APIname": "VirCurEx",
+    "Description": "VirCurEx is an online exchange for users to buy, sell, and trade bitcoins and other crypto-currencies. The VirCurEx allows users to make calls for bid and currency info, check trades, make trades,...",
+    "Category": "Financial",
+    "Date": "05.18.2013"
+  }
+]

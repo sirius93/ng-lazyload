@@ -1,0 +1,48 @@
+//  @import '../../../variables.scss';
+.unfilled {
+    stroke: #a9a9a9;
+    stroke-width: 1px;
+    fill: white;
+}
+
+.filled {
+    fill:#FFDF00;
+}
+
+//star rating scss
+svg {
+    width: 18%;
+    margin: 7px 0;
+}
+
+
+pd-star-rating{
+    margin-left:12%;
+
+}
+
+//Media Query for Mobiles
+@media (max-width: 767px) {
+    svg {
+
+        width:16%;
+
+        margin: 0px 1%;
+    }
+}
+
+//Media Query for Tab
+// @media (min-width: 768px) and (max-width: 991px) {
+// svg {
+//         margin: 0 3%;
+
+//     }
+
+//     }    
+
+// }
+@media (min-width: 768px) and (max-width: 991px) {
+    svg {
+        margin: 0 0%;
+    }
+}

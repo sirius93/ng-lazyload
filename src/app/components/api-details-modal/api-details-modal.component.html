@@ -1,0 +1,25 @@
+<div class="container">
+<h1 md-dialog-title>{{api.API}}</h1>
+<div class="row">
+<div class="col-xs-8 col-xs-offset-2 rating">
+    
+<!--<pd-star-rating [init]="api.avgrating"></pd-star-rating>-->
+</div>
+</div>
+<div class="row">
+<div md-dialog-content>
+    <h3><b>About:</b></h3> 
+    {{api.Description}}
+    <h3><b>Pros:</b></h3>
+    {{api.pros}}
+    <h3><b>Cons:</b></h3>
+    {{api.cons}}
+</div>
+</div>
+<div class="row">
+<div class="col-xs-8 col-xs-offset-2" md-dialog-actions>
+  <button md-button>Close</button>
+  <button md-button>Submit</button>
+</div>
+</div>
+</div>
