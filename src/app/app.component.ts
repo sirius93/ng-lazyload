@@ -15,8 +15,8 @@ export class AppComponent {
   componentData1 = null;
   componentData2 = null;
   i = 0;
-  @HostListener("window:scroll", [])
-  onWindowScroll(){
+@HostListener('mouseover')
+   onMouseOver(){
    
         this.componentData1 = {
         component: HelloWorldComponent,
