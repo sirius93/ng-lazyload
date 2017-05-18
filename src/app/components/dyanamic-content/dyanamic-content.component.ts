@@ -1,15 +1,15 @@
 import {Component, Input, ViewContainerRef, ViewChild, ReflectiveInjector, ComponentFactoryResolver} from '@angular/core';
 import HelloWorldComponent from './hello-world-component';
 import WorldHelloComponent from './world-hello-component';
-
+import FooterComponent from './footer';
 @Component({
   selector: 'dynamic-component',
-  entryComponents: [HelloWorldComponent, WorldHelloComponent], // Reference to the components must be here in order to dynamically create them
+  entryComponents: [HelloWorldComponent, WorldHelloComponent,FooterComponent], // Reference to the components must be here in order to dynamically create them
   template: `
-    <div #dynamicComponentContainer>
+    <div>
+    <template #dynamicComponentContainer> </template>
     </div>
   `,
-  styles:[`div{width:1440px;height:50px;background-color:black}`]
 })
 export default class DynamicComponent {
   currentComponent = null;
